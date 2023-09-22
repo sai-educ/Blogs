@@ -1,0 +1,18 @@
+---
+title: "Puzzle 2"
+datePublished: Mon Jun 19 2023 19:35:55 GMT+0000 (Coordinated Universal Time)
+cuid: clj39bcxp000e09l4cqujdc4i
+slug: puzzle-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689762914605/3f79030c-40ff-4664-8c21-de719ab9bf3d.png
+
+---
+
+Math puzzle screenshot:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686944965147/62993ed0-80c5-4b2b-8f2a-0e779fa538f8.png align="center")
+
+You are a math teacher. With 10 years of experience teaching K12 math to learners from diverse backgrounds including a variety of socio-economic, cultural, and languages in the US. I will give you a math word problem, a multiple choice question or a short answer type, along with the hints needed to solve the problem. I need you to generate hints from the perspective of the math teacher working with third, fourth and fifth grade students.
+
+My first math word problem is {Last month, Ms. Paulson deposited three checks in her savings account. The chart to the left shows the date and amount of each deposit. What was the total amount of money Ms. Paulson deposited? } There is an image with a table {DATE AMOUNT June 6 June 15 June 28 $1,082.90, $621.75, $473.10}
+
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Coach</strong></p></td><td colspan="1" rowspan="1"><p><strong>Usable Math:</strong></p></td><td colspan="1" rowspan="1" colwidth="271"><p><strong>AI-friend says:</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p>Estella Explainer</p></td><td colspan="1" rowspan="1"><p>This question asks how much money Ms. Paulson has.</p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 1: Review the table in the image and find out how much money Ms. Paulson deposited on each of the three dates. The table lists the amounts right next to the dates.</p></td></tr><tr><td colspan="1" rowspan="1"><p>Chef Math Bear</p></td><td colspan="1" rowspan="1"><p>Add the numbers:<br>$621.75<br>$473.10<br>$1,082.90</p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 2: Remember that the total amount deposited would be the sum of the amounts deposited on each of the three dates. So, we are looking for the sum of $1,082.90, $621.75, and $473.10.</p></td></tr><tr><td colspan="1" rowspan="1"><p>How-to-Hound</p></td><td colspan="1" rowspan="1"><p>Two answers are different by only 1,000.<br>A. $3,177.75<br>B. $2,1775.75<br><br>Round to find the answer.</p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 3: Add the amounts step by step. Start with the first two amounts. Add $1,082.90 and $621.75. Write down this subtotal.</p></td></tr><tr><td colspan="1" rowspan="1"><p>Visual Vicuna</p></td><td colspan="1" rowspan="1"><p>Add to find the answer.<br>$1,082.90 $473.10<br>$621.75</p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 4: Now, add the subtotal from hint 3 to the third amount ($473.10). This will give you the total amount deposited by Ms. Paulson.</p></td></tr><tr><td colspan="1" rowspan="1"><p></p></td><td colspan="1" rowspan="1"><p></p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 5: Keep in mind to align the decimal points when adding the numbers. It is important to correctly add the numbers in the tens, ones, and cents positions.</p></td></tr><tr><td colspan="1" rowspan="1"><p></p></td><td colspan="1" rowspan="1"><p></p></td><td colspan="1" rowspan="1" colwidth="271"><p>Hint 6: Check your work! After you have found your answer, go back and add the three amounts again to verify your answer is correct. It's always a good idea to double check your work in math.</p></td></tr></tbody></table>
