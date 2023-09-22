@@ -1,8 +1,8 @@
 ---
-title: "Colorizing a Bollywood Legend"
+title: "Colorizing a Bollywood Legend: AI brings Amitabh Bachchan's iconic Kaalia character to life"
 datePublished: Fri Sep 22 2023 02:10:06 GMT+0000 (Coordinated Universal Time)
 cuid: clmtyscxz000009jufkmpcb3l
-slug: colorizing-a-bollywood-legend
+slug: colorizing-a-bollywood-legend-ai-brings-amitabh-bachchans-iconic-kaalia-character-to-life
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695348419092/233c980e-cb05-470a-9efd-1d82674be9cf.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695348596322/102697a6-df2b-4b71-a9de-71f0bc675af6.png
 tags: culture, bollywood, iconic, nostalgic, colorize
