@@ -28,6 +28,10 @@ The third day is the main Diwali festival. Dressed in new traditional attire, fa
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695341565460/b8101d3a-95ce-4ebc-a0da-e1e3ece20f98.jpeg align="center")
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695347141098/3eee5330-9f29-417f-8fd0-c971c79ef780.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695347149136/ad00534c-0dbe-47fa-91d8-15d8288124bc.jpeg align="center")
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695341590877/60fe968d-2687-4f0b-b09f-f33b75868969.jpeg align="center")
 
 The fourth day, Annakut, is spent feasting on sumptuous food and visiting relatives and friends. On the final day called Bhai Dooj, sisters pray for their brothers to have long and happy lives by performing the tika ceremony and exchanging gifts.
