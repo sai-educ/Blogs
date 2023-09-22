@@ -12,13 +12,11 @@ In the vast digital tapestry of the internet, there exists a space where the hea
 
 As explorers of culture, many of us have journeyed through stories handed down through generations, relived memories captured in sepia-toned photographs, and marveled at tales from distant lands. But what if we added a touch of magic to these experiences? The magic of Artificial Intelligence.
 
-## **CultureExtra logos:**
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695423348882/a8a7d7e3-642a-4224-9076-10cd052bb4b3.png align="center")
+## **CultureExtra logo:**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695423370169/e1d71a1d-33f2-482d-aecb-9fb16e7a9b22.png align="center")
 
-The logos are created using Canva for Education.
+This logo was created using Canva for Education.
 
 At CultureExtra, our passion lies in diving deep into the cultural nuances from around the world. But we're not just narrators. We are innovators, aiming to use AI to give these stories, images, and memories a fresh, enhanced perspective.
 
