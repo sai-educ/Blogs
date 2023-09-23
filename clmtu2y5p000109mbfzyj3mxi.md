@@ -4,9 +4,13 @@ datePublished: Thu Sep 21 2023 23:58:22 GMT+0000 (Coordinated Universal Time)
 cuid: clmtu2y5p000109mbfzyj3mxi
 slug: c-brazils-spectacular-carnaval-celebration
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wqggdXF6Oiw/upload/ca690da84ae1465b050e8ebdf07eb247.jpeg
-tags: culture, festival, tarang
+tags: artificial-intelligence, culture, festival
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431125749/f1e35e27-145e-4e1c-9e41-bdca657269c1.png align="center")
+
+`CultureExtra is an AI-enhanced, digital-first Culture magazine.`
 
 Bem-vindo ao Brasil! Welcome to Brazil, the largest country in South America blessed with vast rainforests, mega-diverse wildlife, and a vibrant, multiethnic population. Brazilians are renowned for their love of samba, soccer, and celebration. Home to over 210 million cheerful souls, Brazil's official language is Portuguese though Spanish, English, and other indigenous languages are also spoken. Roman Catholicism is the major religion.
 
