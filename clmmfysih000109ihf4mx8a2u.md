@@ -4,7 +4,7 @@ datePublished: Fri Aug 25 2023 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmmfysih000109ihf4mx8a2u
 slug: demystifying-culture-an-ai-enhanced-exploration
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ef3A5EDR7Jk/upload/2b03c735610688f4b827aaffde1d083b.jpeg
-tags: culture, tarang
+tags: artificial-intelligence, culture
 
 ---
 
