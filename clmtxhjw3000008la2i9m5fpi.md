@@ -4,9 +4,13 @@ datePublished: Fri Sep 22 2023 01:33:42 GMT+0000 (Coordinated Universal Time)
 cuid: clmtxhjw3000008la2i9m5fpi
 slug: d-diwali-indias-festival-of-lights
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/X4h8YNc7-1k/upload/f43a7bb0be081ff9b6e9d813b86482a0.jpeg
-tags: culture, tarang, featival
+tags: artificial-intelligence, culture, featival
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431151366/9a4a6826-aafb-4c38-873b-e5fd1eb9aa94.png align="center")
+
+`CultureExtra is an AI-enhanced, digital-first Culture magazine.`
 
 Home to one of the world's oldest civilizations, India is a land of vibrant diversity. Found in South Asia, India has over 1.3 billion people who call it home. It has a rich cultural and religious heritage that dates back over 5,000 years. Hinduism is the major religion practiced by the majority, though many other faiths are also welcomed. With over 20 official languages, Hindi and English serve as common tongues.
 
