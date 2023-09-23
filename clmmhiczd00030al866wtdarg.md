@@ -4,9 +4,13 @@ datePublished: Thu Sep 14 2023 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmmhiczd00030al866wtdarg
 slug: b-the-boryeong-mud-festival-of-south-korea
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694896043127/bc8abf10-4365-480f-bc51-a1f5476162f9.jpeg
-tags: culture, tarang, festivals
+tags: artificial-intelligence, culture, festivals
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431099246/9cdc91b3-83cd-4598-9b9b-973d7a15daa0.png align="center")
+
+`CultureExtra is an AI-enhanced, digital-first Culture magazine.`
 
 South Korea is located in East Asia, occupying the southern half of the Korean peninsula. It has a population of over 51 million people and its capital and largest city is Seoul. South Korea has a diverse landscape with coastal plains, mountains, and over 3,000 islands. The main religions are Christianity and Buddhism. The official language is Korean.
 
