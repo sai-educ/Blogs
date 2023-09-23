@@ -10,7 +10,7 @@ tags: artificial-intelligence, culture, featival
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431151366/9a4a6826-aafb-4c38-873b-e5fd1eb9aa94.png align="center")
 
-`CultureExtra is an AI-enhanced, digital-first Culture magazine.`
+**CultureExtra is a human-crafted, AI-enhanced digital culture magazine.**
 
 Home to one of the world's oldest civilizations, India is a land of vibrant diversity. Found in South Asia, India has over 1.3 billion people who call it home. It has a rich cultural and religious heritage that dates back over 5,000 years. Hinduism is the major religion practiced by the majority, though many other faiths are also welcomed. With over 20 official languages, Hindi and English serve as common tongues.
 
