@@ -1,5 +1,5 @@
 ---
-title: "Introducing CultureExtra Magazine: Where Tradition Meets Tech"
+title: "Introducing CultureExtra"
 datePublished: Tue Aug 15 2023 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmmerin3000x08l2d9wqh7u4
 slug: introducing-culture-extra
