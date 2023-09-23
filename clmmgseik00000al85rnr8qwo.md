@@ -4,9 +4,13 @@ datePublished: Sat Sep 02 2023 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmmgseik00000al85rnr8qwo
 slug: a-the-ati-atihan-festival-of-the-philippines
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694894697399/5e1eff98-ea6d-4af3-879f-0bd59b4f2277.jpeg
-tags: culture, tarang, festivals
+tags: artificial-intelligence, culture, festivals
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431065535/b5c749ef-6996-4c33-8fdf-d8fcfecef6c9.png align="center")
+
+`CultureExtra is an AI-enhanced, digital-first Culture magazine.`
 
 The [Philippines](https://en.wikipedia.org/wiki/Philippines) is an archipelago of over 7,000 islands located in Southeast Asia, situated between the Philippine Sea and the South China Sea. With a population of over 100 million people, it is the 13th most populous country in the world. The Philippines is predominantly Christian, with over 90% of the population identifying as Roman Catholic. The two official languages are Filipino and English.
 
