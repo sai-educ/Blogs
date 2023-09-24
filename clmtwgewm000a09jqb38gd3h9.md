@@ -56,7 +56,9 @@ Best wishes,
 SG
 
 Sai Gattupalli (he/him)  
-Teaching Associate - Englwrit 112 STEM Learning Technologies PhD Candidate Department of Teacher Education and Curriculum Studies (TECS)  
+Teaching Associate - Englwrit 112  
+STEM Learning Technologies PhD Candidate  
+Department of Teacher Education and Curriculum Studies (TECS)  
 University of Massachusetts Amherst  
 Executive Member of STEM Literacy Platforms [EdSutra](https://edsutra.com/) and [UsableMath](https://usablemath.org/)  
 Founder of Education Non-profit [Project Badi](https://projectbadi.com/)  
