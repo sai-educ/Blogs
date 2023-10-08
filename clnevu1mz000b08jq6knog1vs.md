@@ -10,11 +10,15 @@ tags: education, mathematics, usablemath, math-teacher, math-design
 
 Math learning dramatically declined during the pandemic as students experienced months of disjointed remote education. As schools returned to in-person instruction, it became clear many students needed extra support rebuilding foundational math skills.
 
-In response, we rebuilt and relaunched [Usable Math](https://usablemath.org/) - an open online math tutoring system to provide interactive, standards-aligned math activities. Usable Math features word problems and coaching from four friendly virtual tutors: Estella Explainer, Chef Math Bear, How-to Hound, and Visual Vicuna.
+In response, we rebuilt and relaunched [Usable Math](https://usablemath.org/) - an open online math tutoring system to provide interactive, standards-aligned math activities. Usable Math features word problems and coaching from four friendly virtual tutors: *Estella Explainer, Chef Math Bear, How-to Hound,* and *Visual Vicuna*.
 
-Recently, we published an article in [Digital Experiences in Mathematics Education](https://link.springer.com/article/10.1007/s40751-023-00128-3) sharing behind-the-scenes insights into key decisions that shaped Usable Math’s design. Here’s what we learned:
+Recently, we published an article in [Digital Experiences in Mathematics Education](https://link.springer.com/article/10.1007/s40751-023-00128-3) sharing behind-the-scenes insights into key decisions that shaped Usable Math’s design.
 
-### Multiple Perspectives Expand Thinking
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696776945978/bb1ab359-f2f4-4165-8e99-9f6cfafe48ee.png align="center")](https://link.springer.com/article/10.1007/s40751-023-00128-3)
+
+Here’s what we learned:
+
+### Multiple Perspectives Expand Math Thinking
 
 We chose to keep all four coaches, each offering different problem-solving approaches. This shows math isn’t just one rigid way of thinking but a creative, multi-faceted subject. When students experience diverse strategies, it expands their thinking and skillset.
 
@@ -24,7 +28,7 @@ Building the system on Google Slides provides an intuitive, no-code way for us t
 
 ### Click-to-Reveal Builds Engagement
 
-With click-to-reveal formatting, users control the pace of problem solving. Hints appear one click at a time, encouraging students to analyze each strategy before answering. This fosters the habit of thoughtful problem solving over rushing.
+With click-to-reveal formatting, users control the pace of problem-solving. Hints appear one click at a time, encouraging students to analyze each strategy before answering. This fosters the habit of thoughtful problem-solving over rushing.
 
 ### Growth Mindset Feedback Motivates Learners
 
@@ -52,6 +56,8 @@ Our experiences developing Usable Math yielded useful insights for teachers desi
 While technology can help differentiate instruction, teachers play a crucial role in fostering classroom cultures where problem-solving is valued over speed. Together we can make math learning engaging and effective for every student!
 
 Explore Usable Math modules at [https://usablemath.org/](https://usablemath.org/) and share your ideas for creating the most usable math learning! Math learning dramatically declined during the pandemic as students experienced months of disjointed remote education. As schools returned to in-person instruction, it became clear many students needed extra support rebuilding foundational math skills.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696777077832/0ede7fb0-51c8-4bd1-af3b-3e69a740246e.png align="center")](https://usablemath.org/#modules)
 
 Until next time.  
 SG, RM & SE
