@@ -1,9 +1,9 @@
 ---
-title: "Blending Gardens and Geometry: Socio-cultural Approaches in Math Education"
+title: "Blending Gardens and Geometry: Learning Area and Perimeter through Creative Design"
 seoTitle: "Blending Gardens and Geometry: Socio-cultural Approaches in Math Ed"
 datePublished: Wed Aug 09 2023 04:01:50 GMT+0000 (Coordinated Universal Time)
 cuid: cll37eklw00070ajnbgq5faiz
-slug: blending-gardens-and-geometry-socio-cultural-approaches-in-math-education
+slug: blending-gardens-and-geometry-learning-area-and-perimeter-through-creative-design
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691552334979/6acb1a2a-0441-4b6a-9396-fc3f2477ff96.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691553678745/bbb0ff32-cc5e-431d-a831-62ed1505a814.jpeg
 tags: education, mathematics, open-educational-resources, usablemath, math-teacher
