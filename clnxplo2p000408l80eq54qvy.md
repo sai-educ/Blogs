@@ -1,8 +1,8 @@
 ---
-title: "Did You Attend MassCUE 2023?"
+title: "Team Usable Math Presents at MassCUE 2023"
 datePublished: Thu Oct 19 2023 21:43:44 GMT+0000 (Coordinated Universal Time)
 cuid: clnxplo2p000408l80eq54qvy
-slug: did-you-attend-masscue-2023
+slug: team-usable-math-presents-at-masscue-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697750955595/0a58947f-2311-47fe-94b4-8268b15618dc.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697751810766/9031eda4-5a95-4c49-bbbe-fb09b73e76ba.jpeg
 tags: maths, usablemath, masscue, math-problem-solver, math-design
