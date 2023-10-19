@@ -15,7 +15,7 @@ Amidst the sea of transformative ideas and emerging tech trends, [MassCUE 2023](
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752375433/75ab7942-3fd8-4ed4-ab4b-564cae775bff.jpeg align="center")
 
-Visual showing the location of our session. Both our sessions occurred in Red Level, Suite 22 of the Gillette Stadium.
+Visuals showing the location of our session. Both our sessions occurred in Red Level, Suite 22 of the Gillette Stadium.
 
 ### Usable Math: An Open Online Tutor for Elementary Students, Teachers, and Families
 
