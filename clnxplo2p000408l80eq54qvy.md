@@ -45,6 +45,6 @@ A heartfelt acknowledgment is for UMass Amherst scholar, TEAMS coordinator and m
 
 Until next time.
 
-SG, RM & SE.
+SE, RM & SG.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752411415/06a639ce-04d3-40fb-8372-bc912298f708.jpeg align="center")
