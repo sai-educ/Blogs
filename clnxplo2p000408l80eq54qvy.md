@@ -41,7 +41,7 @@ The slides for the second session are [available in open access here](https://sc
 
 MassCUE 2023 was not just a conference; it was a celebration of the future of education. As we continue on this journey, we're inspired by the educators, students, and tech enthusiasts we met and the shared vision we all hold. The future is bright, and we are excited to be a part of it. Here's to more innovations, collaborations, and transformations in the world of education.
 
-A heartfelt acknowledgment is for UMass Amherst scholar, TEAMS coordinator and math major, Madeline Donnellan. Her unwavering support, deep insights, and passionate commitment significantly enriched our presentation and overall experience at MassCUE 2023. We're profoundly grateful for her collaboration and the expertise she brought to the table.
+A heartfelt acknowledgment is for UMass Amherst scholar, TEAMS coordinator and math major, [Madeline Donnellan](https://www.umass.edu/mathematics-statistics/news/student-awards-for-2022-23). Her unwavering support, deep insights, and passionate commitment significantly enriched our presentation and overall experience at MassCUE 2023. We're profoundly grateful for her collaboration and the expertise she brought to the table.
 
 Until next time.
 
