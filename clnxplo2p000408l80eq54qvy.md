@@ -11,6 +11,12 @@ tags: maths, usablemath, masscue, math-problem-solver, math-design
 
 Amidst the sea of transformative ideas and emerging tech trends, [MassCUE 2023](https://www.masscue.org/event/fallconf23/) stood as a testament to the bright future of educational technology. This year was particularly special for us as we had the honor of not just being participants but also presenters. Here's a glimpse of our presentations that aimed to shape the trajectory of math education using cutting-edge online tools.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752181366/d3169522-eea9-40ba-8e51-9a978ea34552.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752375433/75ab7942-3fd8-4ed4-ab4b-564cae775bff.jpeg align="center")
+
+Visual showing the location of our session. Both our sessions occurred in Red Level, Suite 22 of the Gillette Stadium.
+
 ### Usable Math: An Open Online Tutor for Elementary Students, Teachers, and Families
 
 The very essence of math learning is problem-solving. With [Usable Math](https://usablemath.org/), we tapped into the potential of online tools and virtual coaches to offer a more immersive, engaging, and effective math learning experience. Usable Math caters to young learners from 3rd to 6th grade, allowing them to practice problem-solving, mathematical reasoning, and more.
@@ -35,6 +41,10 @@ The slides for the second session are [available in open access here](https://sc
 
 MassCUE 2023 was not just a conference; it was a celebration of the future of education. As we continue on this journey, we're inspired by the educators, students, and tech enthusiasts we met and the shared vision we all hold. The future is bright, and we are excited to be a part of it. Here's to more innovations, collaborations, and transformations in the world of education.
 
+A heartfelt acknowledgment is for UMass Amherst scholar, TEAMS coordinator and math major, Madeline Donnellan. Her unwavering support, deep insights, and passionate commitment significantly enriched our presentation and overall experience at MassCUE 2023. We're profoundly grateful for her collaboration and the expertise she brought to the table.
+
 Until next time.
 
 SG, RM & SE.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752411415/06a639ce-04d3-40fb-8372-bc912298f708.jpeg align="center")
