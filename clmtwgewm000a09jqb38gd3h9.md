@@ -3,7 +3,7 @@ title: "Shaping the Future of AI in Education: Insights from Top Scientists from
 datePublished: Fri Sep 22 2023 01:04:50 GMT+0000 (Coordinated Universal Time)
 cuid: clmtwgewm000a09jqb38gd3h9
 slug: shaping-the-future-of-ai-in-education-insights-from-top-scientists-from-around-the-world
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697394751934/78ac7655-a396-42c3-acc8-c743bbc1f470.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697833806833/5f59da79-920c-48fd-bceb-25fbc738e2ca.png
 tags: ai, artificial-intelligence, ai-in-education, stem-education, future-of-education
 
 ---
