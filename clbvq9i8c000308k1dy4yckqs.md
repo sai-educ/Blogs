@@ -4,7 +4,7 @@ seoTitle: "what is techno-solutionism"
 datePublished: Tue Dec 20 2022 04:30:16 GMT+0000 (Coordinated Universal Time)
 cuid: clbvq9i8c000308k1dy4yckqs
 slug: techno-solutionism-tech-cant-fix-everything
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671512570427/pnFsDNt-s.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697833945467/4173e0bf-730d-454f-ad40-cf4588204494.png
 tags: techno-solutionism, technological-solutionism
 
 ---
