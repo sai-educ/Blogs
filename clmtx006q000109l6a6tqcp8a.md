@@ -3,7 +3,7 @@ title: "Experiment #2 with a New AI Writing System (Article 2/2)"
 datePublished: Fri Sep 22 2023 01:20:04 GMT+0000 (Coordinated Universal Time)
 cuid: clmtx006q000109l6a6tqcp8a
 slug: experiment-2-with-a-new-ai-writing-system-article-22
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7iq4VEHLNGU/upload/1277a9ad257366f48818e8e16ade5aa6.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697847249580/a86c004f-a2e1-4b81-9a4c-8063dd2b55bd.png
 tags: writing, ai, artificial-intelligence, education
 
 ---
