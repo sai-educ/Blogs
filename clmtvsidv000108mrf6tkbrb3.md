@@ -3,7 +3,7 @@ title: "My Experiments with a Groundbreaking New AI Writing System (Article 1/2)
 datePublished: Fri Sep 22 2023 00:46:14 GMT+0000 (Coordinated Universal Time)
 cuid: clmtvsidv000108mrf6tkbrb3
 slug: my-experiments-with-a-groundbreaking-new-ai-writing-system-article-12
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7iq4VEHLNGU/upload/8c39760ef3761a4c5d1c8518c2623362.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697847292574/948da3f3-1a04-4ddf-91b6-9bb855b6434a.png
 tags: experiment, writing, ai, research, generative-ai
 
 ---
