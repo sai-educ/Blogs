@@ -4,12 +4,12 @@ seoTitle: "AI Usage in College Writing Course"
 datePublished: Thu Sep 07 2023 20:26:29 GMT+0000 (Coordinated Universal Time)
 cuid: clm9mcjco000c09l6fgrr3zyz
 slug: preparing-students-for-an-ai-powered-future-an-approach-for-teaching-college-writing-course
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mfB1B1s4sMc/upload/5c98924df51645ff82a5f9cf54367fbb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697847488479/e53dcb51-56d0-45ed-a8d7-d30d4cebbd47.png
 tags: writing, english, chatgpt, usage-policy
 
 ---
 
-As an instructor teaching **Englwrit 112 College Writing** this semester, I want to prepare my students for the emerging role of AI in education and their future workplace. With powerful generative AI tools such as ChatGPT growing rapidly, it is clear such technologies will be transformative. However, using them ethically and effectively requires thoughtfulness.
+While teaching college writing this semester, I want to prepare my students for the emerging role of AI in education and their future workplace. With powerful generative AI tools such as ChatGPT growing rapidly, it is clear such technologies will be transformative. However, using them ethically and effectively requires thoughtfulness.
 
 That's why I've created an AI usage policy tailored to the learning goals and writing skills I want my students to develop. While many institutions currently prohibit generative AI, I believe that with the right constraints, these tools can enhance learning. My policy aims to give students experience critiquing, guiding, and working alongside AI, while still developing core critical thinking and writing skills themselves.
 
