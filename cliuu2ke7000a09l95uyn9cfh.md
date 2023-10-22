@@ -3,7 +3,7 @@ title: "Can we truly rely on AI to be a learning companion?"
 datePublished: Tue Jun 13 2023 22:07:01 GMT+0000 (Coordinated Universal Time)
 cuid: cliuu2ke7000a09l95uyn9cfh
 slug: can-we-truly-rely-on-ai-to-be-a-learning-companion
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/O5EMzfdxedg/upload/5736d06075d2f0c5cbed67c93f300c27.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697950556136/ea2b2e35-873a-4ae6-8994-e32a8d3f97a4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686694011284/77befebd-c76e-4a55-9fe5-c5df3560d446.jpeg
 tags: artificial-intelligence, education, mathematics, llm, large-language-models
 
