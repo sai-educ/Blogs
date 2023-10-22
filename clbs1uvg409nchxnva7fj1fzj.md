@@ -4,7 +4,7 @@ seoTitle: "What are open educational resources?"
 datePublished: Sat Dec 17 2022 14:43:44 GMT+0000 (Coordinated Universal Time)
 cuid: clbs1uvg409nchxnva7fj1fzj
 slug: open-educational-resources-oers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671228486311/3sDAW0qty.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697950683925/a1c95a27-9fac-4ca6-8043-aecbd793d34c.png
 tags: culture, oer, open-educational-resources, open-culture, life-long-learning
 
 ---
