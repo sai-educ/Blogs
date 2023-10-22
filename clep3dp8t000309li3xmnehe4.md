@@ -4,7 +4,7 @@ seoTitle: "what is computational thinking"
 datePublished: Wed Mar 01 2023 03:02:11 GMT+0000 (Coordinated Universal Time)
 cuid: clep3dp8t000309li3xmnehe4
 slug: computational-thinking
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZiQkhI7417A/upload/0c9df71014f439efa89ddf2aea44b463.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697950636634/708bd6e6-cbe0-4e92-9611-23bb34b6e358.png
 tags: education, computational-thinking, computing-education, literacy, learning-sciences
 
 ---
