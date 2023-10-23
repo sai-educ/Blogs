@@ -28,29 +28,28 @@ def clean_report_files(directory):
     if not os.path.exists(cleaned_directory):
         os.makedirs(cleaned_directory)
     
-    # List all files in the provided directory
+    # Listing all files in the dir
     files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and "Report" in f and f.endswith('.tsv')]
     
     # Process each "Report" file
     for file in files:
         file_path = os.path.join(directory, file)
         
-        # Try reading with utf-8 encoding first
+        # Attempting to read
         try:
             df = pd.read_csv(file_path, sep="\t", encoding="utf-8", skiprows=5)
         except Exception as utf8_err:
-            # If there's an error, try reading with ISO-8859-1 encoding
+            # Another attempt, using another encoding. If the one above fails, this should do the trick
             try:
                 df = pd.read_csv(file_path, sep="\t", encoding="ISO-8859-1", skiprows=5)
             except Exception as iso_err:
                 print(f"Error parsing file: {file}. UTF-8 error: {utf8_err}. ISO-8859-1 error: {iso_err}. Skipping...")
                 continue
 
-        # Save the cleaned data to the "Cleaned" directory
+        # Save the cleaned data to a new folder
         cleaned_file_path = os.path.join(cleaned_directory, file)
         df.to_csv(cleaned_file_path, sep="\t", index=False)
 
-# Example usage
 directory = "location"
 clean_report_files(directory)
 ```
@@ -60,15 +59,15 @@ Stage 2 is validation, where I show file meta for manual verification.
 ```python
 
 def list_files_and_sizes(directory):
-    # Ensure the directory exists
+    # To ensure the location exists
     if not os.path.exists(directory):
         print(f"The directory {directory} does not exist.")
         return
 
-    # List all files in the directory
+    # Listing all files - for manual validation
     files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
     
-    # Print the count of files
+    # verify the counting vs human counting
     print(f"Total number of files: {len(files)}\n")
     
     # Print file names and their sizes
@@ -77,7 +76,6 @@ def list_files_and_sizes(directory):
         size = os.path.getsize(file_path)
         print(f"File: {file}\tSize: {size} bytes")
 
-# Example usage
 directory = "path/Cleaned"
 list_files_and_sizes(directory)
 ```
