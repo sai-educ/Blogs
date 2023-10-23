@@ -14,9 +14,9 @@ tags: artificial-intelligence, culture, featival
 
 Home to one of the world's oldest civilizations, India is a land of vibrant diversity. Found in South Asia, India has over 1.3 billion people who call it home. It has a rich cultural and religious heritage that dates back over 5,000 years. Hinduism is the major religion practiced by the majority, though many other faiths are also welcomed. With over 20 official languages, Hindi and English serve as common tongues.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695341218553/89d624ef-c122-4cd0-b20e-a63922bad2d8.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698081364270/96a76346-8f96-4642-a5ed-500c151229d5.png align="center")
 
-Location of India. Source: [Wiki](https://commons.wikimedia.org/wiki/File:India_on_the_globe_%28India_centered%29.svg).
+Location of India. Source: Dall-E 3
 
 One of the biggest and most awaited festivals in India is Diwali, the festival of lights. Celebrated by Hindus, Sikhs, Jains and Buddhists, Diwali holds cultural and spiritual significance. The 5-day long festival typically falls between mid-October to mid-November, determined by the Hindu lunar calendar.
 
