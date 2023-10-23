@@ -20,10 +20,18 @@ This logo was created using Canva for Education.
 
 At CultureExtra, our passion lies in diving deep into the cultural nuances from around the world. But we're not just narrators. We are innovators, aiming to use AI to give these stories, images, and memories a fresh, enhanced perspective.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698080861378/81f4fef7-d1a9-4696-aa0a-c58d02a12916.png align="center")
+
+Image created using Dall-E 3, depicting culture and AI coexisting in a place of worship.
+
 Imagine a vintage photograph of a bustling marketplace in Morocco, now colorized to reveal the vibrant blues of the sky and the rich hues of artisanal crafts. Or a tale from the Maori folklore, narrated with alternate endings based on AI's interpretation. That's the essence of CultureExtra Magazine.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698080947109/76b16d40-a397-4fd3-8f4d-881c69f9f4b6.png align="center")
 
 Our promise to you is simple: To blend cultural insights from across the globe with the power of AI, delivering content that not only educates and entertains but also inspires awe.
 
 So, as we set sail on this exciting voyage, we invite you to join us. Rediscover the world's cultures, see them through a tech-enhanced lens, and be part of a community that cherishes the past while embracing the future.
 
 Thank you for being here at the beginning of CultureExtra's journey. There's so much more to come, and we can't wait to share it with you.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698080998931/99259287-0146-4250-bcbf-0d83a57963b2.png align="center")
