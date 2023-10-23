@@ -3,7 +3,7 @@ title: "Introducing CultureExtra"
 datePublished: Tue Aug 15 2023 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmmerin3000x08l2d9wqh7u4
 slug: introducing-culture-extra
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zbg2-gyo_hM/upload/e2a2c81ebe609ef06ba36f7ae4ecf730.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698081169470/739f446d-2383-4c0d-98ba-95d127f99b42.png
 tags: culture
 
 ---
