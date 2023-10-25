@@ -42,6 +42,10 @@ This journal article presents Usable Math, an open online tutor for elementary s
 
 ---
 
+You can also use genAI tools such as ChatGPT or Claude to generate annotated bibliographies. Here's a sample prompt you can begin with:
+
+`Please write an annotated bibliography entry in APA format for the following journal article: (provide reference/abstract/upload file). The annotation should be approximately 150 words and should summarize the key points of the article as well as assess its usefulness for my research paper on (enter the topic of your writing sample here). Use an academic writing style appropriate for an undergraduate student.`
+
 This example demonstrates how the annotation provides a summary as well as an evaluation of how useful and credible the source is for the topic. Creating an annotated bibliography takes more time and effort than a standard bibliography but results in a more thorough literature review. The descriptive annotations facilitate better critical thinking and analysis to determine which sources to rely on most for your own research and writing.
 
 Until next time.
