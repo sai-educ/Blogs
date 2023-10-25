@@ -1,15 +1,30 @@
 ---
-title: "Writing an Annotated Bibliography for College Research Papers"
+title: "Annotated Bibliography for College Research Papers"
 seoTitle: "what is annotated bibliography?"
 datePublished: Wed Oct 25 2023 01:21:24 GMT+0000 (Coordinated Universal Time)
 cuid: clo52ku0a000309l31cct3yhq
-slug: writing-an-annotated-bibliography-for-college-research-papers
+slug: annotated-bibliography-for-college-research-papers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698196251574/8b66d316-d7e8-48d3-a2f3-c318cdd9c807.png
 tags: writing, annotated-bibliography, college-writing
 
 ---
 
-This article is intended for undergraduate students enrolled in GenEd at UMass Amherst and anyone interested in college writing. As an undergraduate student, you will often be asked to write research papers that require you to reference and cite sources. An annotated bibliography is a key part of the research process that demonstrates your critical thinking and research skills. This article provides undergraduate students with clear guidance on how to write an effective annotated bibliography to support college research papers and meet assignment requirements.
+This article is intended for undergraduate students enrolled in general education requirements in:
+
+* [UMass Amherst EnglWrit 112 College Writing](https://www.umass.edu/writingprogram/college-writing-course)
+    
+* [College Writing R1A at UC Berkeley](https://guide.berkeley.edu/undergraduate/colleges-schools/letters-science/reading-composition-requirement/)
+    
+* [Expos 20 English Composition at Harvard](https://writingprogram.fas.harvard.edu/expos-20)
+    
+* [Intro to Academic Writing and Critical Reading from Michigan State - English 125](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
+    
+* [Stanford's PWR 1: Writing and Academic](https://pwrcourses.stanford.edu/pwr-1)
+    
+* [Rhetoric and Composition from Yale - ENGL 114: Writing Seminar](https://english.yale.edu/undergraduate/courses/introductory-courses/welcome-engl-114)
+    
+
+As an undergraduate student, you will often be asked to write research papers that require you to reference and cite sources. An annotated bibliography is a key part of the research process that demonstrates your critical thinking and research skills. This article provides undergraduate students with clear guidance on how to write an effective annotated bibliography to support college research papers and meet assignment requirements.
 
 ### What is an Annotated Bibliography?
 
