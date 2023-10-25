@@ -1,6 +1,6 @@
 ---
 title: "Annotated Bibliography for College Research Papers"
-seoTitle: "what is annotated bibliography?"
+seoTitle: "What is Annotated Bibliography?"
 datePublished: Wed Oct 25 2023 01:21:24 GMT+0000 (Coordinated Universal Time)
 cuid: clo52ku0a000309l31cct3yhq
 slug: annotated-bibliography-for-college-research-papers
