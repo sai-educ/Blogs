@@ -49,3 +49,5 @@ You can also use genAI tools such as ChatGPT or Claude to generate annotated bib
 This example demonstrates how the annotation provides a summary as well as an evaluation of how useful and credible the source is for the topic. Creating an annotated bibliography takes more time and effort than a standard bibliography but results in a more thorough literature review. The descriptive annotations facilitate better critical thinking and analysis to determine which sources to rely on most for your own research and writing.
 
 Until next time.
+
+Cover image source: Dall-E 3
