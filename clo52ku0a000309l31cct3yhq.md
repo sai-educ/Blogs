@@ -11,7 +11,7 @@ tags: writing, annotated-bibliography, college-writing
 
 This article is intended for undergraduate students enrolled in general education requirements in:
 
-* [UMass Amherst EnglWrit 112 College Writing](https://www.umass.edu/writingprogram/college-writing-course)
+* [UMass Amherst EnglWrit 112 College Writing](https://www.umass.edu/writingprogram/college-writing-course), of which I am an instructor.
     
 * [Intro to Academic Writing and Critical Reading from Michigan State - English 125](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
     
