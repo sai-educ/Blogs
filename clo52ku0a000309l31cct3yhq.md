@@ -13,11 +13,11 @@ This article is intended for undergraduate students enrolled in general educatio
 
 * [UMass Amherst EnglWrit 112 College Writing](https://www.umass.edu/writingprogram/college-writing-course)
     
+* [Intro to Academic Writing and Critical Reading from Michigan State - English 125](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
+    
 * [College Writing R1A at UC Berkeley](https://guide.berkeley.edu/undergraduate/colleges-schools/letters-science/reading-composition-requirement/)
     
 * [Expos 20 English Composition at Harvard](https://writingprogram.fas.harvard.edu/expos-20)
-    
-* [Intro to Academic Writing and Critical Reading from Michigan State - English 125](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
     
 * [Stanford's PWR 1: Writing and Academic](https://pwrcourses.stanford.edu/pwr-1)
     
