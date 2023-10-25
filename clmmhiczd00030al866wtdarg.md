@@ -26,6 +26,12 @@ Source: [Flickr](https://www.flickr.com/photos/usag-yongsan/4829271580)
 
 The highlight of the Boryeong Mud Festival is the chance for visitors to play and roll around in large pits filled with the famous Boryeong mud. The cooled smooth mud is imported from the nearby Boryeong mud flats and is reported to contain rich minerals that leave the skin soft and supple. The festival has dedicated mud experience zones for participants to wallow and slide in the therapeutic mud.
 
+Visuals created by Dall-E 3 are truly breathtaking!
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698212422376/5a310734-b761-4825-9b7b-826438afc6f2.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698212432150/3afbda0d-69b4-4096-8d5c-b57c5c553ebc.png align="center")
+
 In addition to mud activities, the festival also hosts mud-themed games and competitions. The most popular event is the Mud Prison where participants wrestle and throw mud at each other. The Mud King competition crowns the male and female visitor adjudged to be the most creatively adorned in mud. Other contests include mud sledding, mud surfing, and the most popular - mud wrestling.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694896139734/cdf27f30-5614-40ff-bf5a-b3de6c57d240.jpeg align="center")
