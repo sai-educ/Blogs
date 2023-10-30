@@ -55,7 +55,15 @@ Here is an example of an APA-formatted annotated bibliography entry for a journa
 
 ---
 
+**Sample Bibliography:**
+
 Gattupalli, S. S., Edwards, S. A., Maloy, R. W., & Rancourt, M. (2023). Designing for Learning: Key Decisions for an Open Online Math Tutor for Elementary Students. *Digital Experiences in Mathematics Education*, 1-16. DOI: [10.1007/s40751-023-00128-3](https://doi.org/10.1007/s40751-023-00128-3)
+
+**Activity:**
+
+Go to the link above, and spend 5min to skim through the abstract, introduction and conclusion for key points. Write down what you've learned.
+
+**Annotated Bibliography:**
 
 This journal article presents Usable Math, an open online tutor for elementary school math students and teachers in the USA. It uses four virtual coaches to offer different strategies for solving word problems from standardized tests. The system is based on Google Slides, a click-to-see method, growth mindset feedback, and invitations for students to write their own problems and strategies. These decisions aim to make the system accessible, engaging, and differentiated for learners. The system is a redesigned version of an older system called 4MALITY, which showed promise but was difficult to maintain. The system incorporates insights from research on online tutoring, multiple problem-solving approaches, and math writing.
 
