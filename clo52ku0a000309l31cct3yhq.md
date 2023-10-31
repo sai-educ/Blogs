@@ -9,7 +9,7 @@ tags: writing, annotated-bibliography, college-writing
 
 ---
 
-This article is intended for undergraduate students enrolled in general education requirements in:
+This article is intended for undergraduate students enrolled in college writing courses such as the:
 
 * [EnglWrit 112 from UMass Amherst](https://www.umass.edu/writingprogram/college-writing-course)
     
@@ -25,7 +25,7 @@ This article is intended for undergraduate students enrolled in general educatio
     
 * [Stanford's PWR 1: Writing and Academic](https://pwrcourses.stanford.edu/pwr-1)
     
-* [From Yale - ENGL 114: Writing Seminar](https://english.yale.edu/undergraduate/courses/introductory-courses/welcome-engl-114), among many others.
+* [Yale's - ENGL 114: Writing Seminar](https://english.yale.edu/undergraduate/courses/introductory-courses/welcome-engl-114), among many others.
     
 
 As an undergraduate student, you will often be asked to write research papers that require you to reference and cite sources. An annotated bibliography is a key part of the research process that demonstrates your critical thinking and research skills. This article provides undergraduate students with clear guidance on how to write an effective annotated bibliography to support college research papers and meet assignment requirements.
