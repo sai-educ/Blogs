@@ -4,7 +4,7 @@ seoTitle: "What is Annotated Bibliography?"
 datePublished: Wed Oct 25 2023 01:21:24 GMT+0000 (Coordinated Universal Time)
 cuid: clo52ku0a000309l31cct3yhq
 slug: annotated-bibliography-for-college-research-papers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698196251574/8b66d316-d7e8-48d3-a2f3-c318cdd9c807.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698762072579/81353a95-b7e7-4ae7-b4d6-f7e376f10aa5.png
 tags: writing, annotated-bibliography, college-writing
 
 ---
@@ -77,6 +77,6 @@ So, creating an annotated bibliography takes more time and effort than a standar
 
 Until next time.
 
-Cover image created using Dall-E 3 with biblography typo.
+Cover image generated using AI supplied by Dall-E 3.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698689563089/0959774f-37f6-4fd4-b4e1-7ef06befbc2d.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698762093347/74879a4e-d94c-4529-a203-49e2ffb0a788.png align="center")
