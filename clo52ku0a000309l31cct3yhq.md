@@ -13,19 +13,19 @@ This article is intended for undergraduate students enrolled in college writing 
 
 * [EnglWrit 112 from UMass Amherst](https://www.umass.edu/writingprogram/college-writing-course)
     
-* [Foundational Writing 101 & 102 from Arizona State University](https://english.arizona.edu/foundations-writing/courses)
+* [Foundational Writing 101 & 102 from Arizona State](https://english.arizona.edu/foundations-writing/courses)
     
-* [WRIT 101 from Montana State University](https://catalog.umt.edu/courses/writ/)
+* [WRIT 101 from Montana State](https://catalog.umt.edu/courses/writ/)
     
-* [English 125 - Intro to Academic Writing and Critical Reading from Michigan State](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
+* [English 125 Academic Writing from Michigan State](https://lsa.umich.edu/english/undergraduate/writing-program/courses/LSA-125.html)
     
 * [College Writing R1A at UC Berkeley](https://guide.berkeley.edu/undergraduate/colleges-schools/letters-science/reading-composition-requirement/)
     
-* [Expos 20 English Composition at Harvard](https://writingprogram.fas.harvard.edu/expos-20)
+* [Expos 20 English comp at Harvard](https://writingprogram.fas.harvard.edu/expos-20)
     
-* [Stanford's PWR 1: Writing and Academic](https://pwrcourses.stanford.edu/pwr-1)
+* [PWR 1 Writing and Academic from Stanford](https://pwrcourses.stanford.edu/pwr-1)
     
-* [Yale's - ENGL 114: Writing Seminar](https://english.yale.edu/undergraduate/courses/introductory-courses/welcome-engl-114), among many others.
+* [ENGL 114 Writing Seminar from Yale](https://english.yale.edu/undergraduate/courses/introductory-courses/welcome-engl-114), among many others.
     
 
 As an undergraduate student, you will often be asked to write research papers that require you to reference and cite sources. An annotated bibliography is a key part of the research process that demonstrates your critical thinking and research skills. This article provides undergraduate students with clear guidance on how to write an effective annotated bibliography to support college research papers and meet assignment requirements.
@@ -59,11 +59,11 @@ Here is an example of an APA-formatted annotated bibliography entry for a journa
 
 Gattupalli, S. S., Edwards, S. A., Maloy, R. W., & Rancourt, M. (2023). Designing for Learning: Key Decisions for an Open Online Math Tutor for Elementary Students. *Digital Experiences in Mathematics Education*, 1-16. DOI: [10.1007/s40751-023-00128-3](https://doi.org/10.1007/s40751-023-00128-3)
 
-**Activity:**
+**Activity (5 min):**
 
-Go to the link above, and spend 5min to skim through the abstract, introduction and conclusion for key points. Write down what you've learned.
+Go to the link above, and spend 5min to skim through the abstract, introduction and conclusion for key points. Write down what you've learned. If you have more time, read through methodology and analysis, and make note of their research techniques.
 
-**Annotated Bibliography:**
+**Sample Annotated Bibliography (but you write your own):**
 
 This journal article presents Usable Math, an open online tutor for elementary school math students and teachers in the USA. It uses four virtual coaches to offer different strategies for solving word problems from standardized tests. The system is based on Google Slides, a click-to-see method, growth mindset feedback, and invitations for students to write their own problems and strategies. These decisions aim to make the system accessible, engaging, and differentiated for learners. The system is a redesigned version of an older system called 4MALITY, which showed promise but was difficult to maintain. The system incorporates insights from research on online tutoring, multiple problem-solving approaches, and math writing.
 
