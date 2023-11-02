@@ -10,9 +10,9 @@ tags: ai, artificial-intelligence, ai-in-education, stem-education, future-of-ed
 
 Dear Colleagues,
 
-Recently, I had the opportunity to administer an NSF-funded workshop titled "Future of AI in Education", originally led by [Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/fellows/beverly-park-woolf/) and [Research Professor](https://www.cics.umass.edu/faculty/directory/woolf_beverly) Beverly Woolf, Ph.D., Ed.D., from the University of Massachusetts Amherst. She directs the [Center for Knowledge Communication](https://centerforknowledgecommunication.org/), which I had the honor of designing.
+Recently, I had the opportunity to administer an NSF-funded workshop titled "Future of AI in Education", originally led by [Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/fellows/beverly-park-woolf/) and [Research Professor](https://www.cics.umass.edu/faculty/directory/woolf_beverly) Beverly Woolf, Ph.D., Ed.D., from the University of Massachusetts Amherst. She directs the [Center for Knowledge Communication](https://centerforknowledgecommunication.org/), which I had the honor of designing. The workshop was held in October, 2022, one month before genAI tools took over the world.
 
-Many top researchers from education and learning sciences have shared their latest science. As a part of my science communication motive, their work has now been made available in open access, for the benefit of society.
+Here, many top researchers from education, learning sciences, and HCI, have shared their cutting-edge science. As a part of my science communication motive, their work has now been made available in open access, for the benefit of society.
 
 You can watch their work on [this Youtube playlist](https://www.youtube.com/playlist?list=PLZABtMnUUs0Th3vR4DpY_fyeCtHs3oSta). All videos are available on the official website - [https://learning-pal.org/](https://learning-pal.org/)
 
