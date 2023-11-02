@@ -8,15 +8,15 @@ tags: parse, data-analysis, formatting, data-integrity
 
 ---
 
-In today's data-driven world, the importance of data integrity and cleanliness cannot be overstated. Every dataset, no matter how meticulously compiled, can contain noise, discrepancies, or formatting issues. Addressing these problems manually can be a time-consuming and error-prone process. Here, I discuss simple techniques and methods to streamline the process of cleaning, formatting, and understanding data without the need for intensive manual intervention.
+Data integrity and cleanliness cannot be overstated. Every dataset, especially educational datasets with live student performance reports, contains noise, discrepancies, or formatting issues. Addressing these problems manually can be a time-consuming and error-prone process. Here, I discuss simple techniques and methods to streamline the process of cleaning, formatting, and understanding data without the need for intensive manual intervention.
 
 The main steps include:
 
-Organizing the directory, encoding and parsing, then perform cleaning and save the processed data to the predefined directory. For demonstration purposes, I supplied a zip of an existing dataset, which contains adult learner assessment records from the [Massachusetts Adult Proficiency Tests – College and Career Readiness (MAPT-CCR)](https://blogs.umass.edu/aclstesthelp/files/2019/05/MAPT_SR_Reading_InterpGuide_V3.pdf), which is being spearheaded and maintained by UMassAmherst EDUC Distinguished Professor [Stephen Sireci](https://www.umass.edu/education/about/directory/stephen-sireci) and Research Professor [April Zenisky](https://www.umass.edu/education/about/directory/april-zenisky) from the department of Research, Educational Measurement, & Psychometrics ([EPRA](https://www.umass.edu/education/department-educational-policy-research-administration-epra)).
+Organizing the directory, encoding and parsing, then perform cleaning and save the processed data to the predefined directory. For demonstration purposes, I supplied a zip of an existing dataset, which contains adult learner assessment records from the [Massachusetts Adult Proficiency Tests – College and Career Readiness (MAPT-CCR)](https://blogs.umass.edu/aclstesthelp/files/2019/05/MAPT_SR_Reading_InterpGuide_V3.pdf), which is being spearheaded and maintained by UMass Amherst EDUC Distinguished Professor [Stephen Sireci](https://www.umass.edu/education/about/directory/stephen-sireci) and Research Professor [April Zenisky](https://www.umass.edu/education/about/directory/april-zenisky) from the department of Research, Educational Measurement, & Psychometrics ([EPRA](https://www.umass.edu/education/department-educational-policy-research-administration-epra)).
 
 In simpler terms, the records are pivotal in understanding the proficiency and readiness of adult learners for college and career opportunities, as they can sometimes contain inconsistencies due to the vast number of entries and the diverse sources from which they are collated. Utilizing my technique could ensure that the records are accurate, consistent, and ready for in-depth analysis.
 
-In the first stage, I clean the database labels.
+First, we will clean the database labels.
 
 ```python
 import os
@@ -54,7 +54,7 @@ directory = "location"
 clean_report_files(directory)
 ```
 
-Stage 2 is validation, where I show file meta for manual verification.
+Stage 2 is validation, where I show file meta for manual verification. Upon real human validation of file structure, the next steps can be taken for further processing.
 
 ```python
 
