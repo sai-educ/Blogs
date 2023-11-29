@@ -4,7 +4,7 @@ seoTitle: "AI Usage in College Writing Course"
 datePublished: Thu Sep 07 2023 20:26:29 GMT+0000 (Coordinated Universal Time)
 cuid: clm9mcjco000c09l6fgrr3zyz
 slug: preparing-students-for-an-ai-powered-future-an-approach-for-teaching-college-writing-course
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701225249069/fe2b76d3-1966-46a9-b11c-1abcdeb4370c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701226010087/5aadcce9-9992-4897-9c06-5420a1536b3c.png
 tags: writing, english, chatgpt, usage-policy
 
 ---
