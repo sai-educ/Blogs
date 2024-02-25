@@ -1,5 +1,5 @@
 ---
-title: "Preparing Students for an AI-Powered Future: An Approach for Teaching College Writing Course"
+title: "Higher Cognitive Function through Prompt Literacy in College Writing Education"
 seoTitle: "AI Usage in College Writing Course"
 datePublished: Thu Sep 07 2023 20:26:29 GMT+0000 (Coordinated Universal Time)
 cuid: clm9mcjco000c09l6fgrr3zyz
@@ -8,6 +8,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701226010087/5aadcce
 tags: writing, english, chatgpt, usage-policy
 
 ---
+
+Last updated: 2/21/2024.
 
 While teaching college writing this semester, I want to prepare my students for the emerging role of AI in education and their future workplace. With powerful generative AI tools such as [Claude](https://claude.ai/) or [ChatGPT](https://chat.openai.com/) growing rapidly, it is clear such technologies will be transformative. However, using them ethically and effectively requires thoughtfulness. If you haven't already, give it a try by creating a free account and asking it to create an 300-word essay about the cosmos. Anyone can do this, with no effort at all, and get done with their writing homework. And hence one question arises - How can I promote the ethical yet transformational potential of AI in writing, and at the same time prepare learners for prompt literacy?
 
@@ -38,8 +40,6 @@ However, if you do use AI to generate content, <mark>you must</mark>:
 
 When you use AI as an idea generator, you may not use (meaning, copy – paste) entire sentences or paragraphs of the AI-generated answers. You will be responsible for any inaccurate, biased, offensive, or otherwise unethical content you submit regardless of whether it originally comes from you or a foundation model. If you use a foundation model, its contribution must be acknowledged in your work; you will be penalized for using a foundation model (such as ChatGPT) without acknowledgement. Having said all these disclaimers, the use of foundational models is encouraged, as it may make it possible for you to submit assignments with higher readability and quality.
 
-Any submitted work without annotations and citations will be treated as plagiarism.
-
 *&lt;End&gt;*
 
 ---
@@ -62,7 +62,14 @@ Rather than pretend generative AI doesn’t exist, or prohibit its use entirely,
 
 See what other [instructors' classroom AI usage policies](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit) are, a public initiative led by education researcher [Lance Eaton](https://www.lanceeaton.com/).
 
-We will end with a motivational quote:
+Recommended readings and podcasts:
+
+* [AI in First Year Writing Courses, by Marc Watkins from the Univ. of Mississippi](https://wac.colostate.edu/repository/collections/textgened/ethical-considerations/ai-in-first-year-writing-courses/)
+    
+* [The Edtech Podcast, Episode 275](https://theedtechpodcast.com/275-preparing-young-people-for-their-future-with-ai/): Preparing Young People for the Future with AI, hosted by [Professor Rose Luckin](https://profiles.ucl.ac.uk/48663-rose-luckin)
+    
+
+I will end with a motivational quote:
 
 ![Post image](https://preview.redd.it/9yvn1fng7omb1.jpg?width=640&crop=smart&auto=webp&s=296dc25b9c195a398d75567584012e49e008bd6b align="left")
 
