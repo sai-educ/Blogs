@@ -9,11 +9,11 @@ tags: changelog, usablemath, elementary-math
 ---
 
 **Version:**  
-2.0  
-  
-**Release Date:  
-**Currently testing on Decimals module. Release to all modules end of March, 2024.  
-  
+2.0
+
+**Release Date:**  
+Currently testing on Decimals module. Release to all modules by end of March, 2024.
+
 **Summary of Changes:**  
 The latest upgrade comes to our UsableMath modules' introduction slides. This version brings a host of improvements and new features, building upon the strong foundation laid by the initial release. We've purpose-designed the welcome slide to make math learning even more engaging and accessible for young learners.
 
@@ -25,7 +25,6 @@ The latest upgrade comes to our UsableMath modules' introduction slides. This ve
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709567905274/9b6d377b-314a-4aba-8f69-5df0b3575753.png align="center")
 
-  
 **Details:**  
 Version 2 ushers in a new era of interactive learning with the introduction of an enhanced intro slide. This slide, crafted with kid-friendly language and appealing HCI (Human-Computer Interaction) elements, serves as a warm and inviting gateway into the world of mathematics for our young users.
 
@@ -45,7 +44,6 @@ These enhancements are not just cosmetic; they represent significant strides in 
 * **MathEd:** Additional improvements to language and structure, ensuring that even the most complex concepts are broken down into understandable chunks.
     
 
-  
 **Public Instance:**  
 [https://usablemath.org](https://usablemath.org/)
 
