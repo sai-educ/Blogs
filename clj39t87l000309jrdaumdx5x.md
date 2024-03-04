@@ -18,3 +18,5 @@ We've made our Google Analytics traffic report publicly accessible via -
 %[https://lookerstudio.google.com/embed/reporting/9239208a-8266-4d19-8aee-49238a095836/page/1M] 
 
 Or, click here: [https://lookerstudio.google.com/s/siRcV\_CRjME](https://lookerstudio.google.com/s/siRcV_CRjME)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585551613/e1f7503d-0f77-4ee5-b4c2-791a14501bd8.png align="center")
