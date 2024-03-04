@@ -32,3 +32,5 @@ MathEd: Several vocab corrections to hint word structure, changes to the sequenc
 **Public Instance:**
 
 [https://usablemath.org](https://usablemath.org/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585543680/4785290b-29e6-49e4-add7-ec47648f3d6e.png align="center")
