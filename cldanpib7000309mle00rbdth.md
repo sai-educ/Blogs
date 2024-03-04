@@ -21,3 +21,5 @@ Read more [here ↗](https://rdene915.com/2023/01/17/making-math-usable-for-youn
 %[https://twitter.com/umasseduc/status/1617613429463781387] 
 
 Usable Math is an [Open Educational Resource↗](https://blog.gattupalli.com/open-educational-resources-oers). For research and collaboration opportunities using Usable Math online math tutor, contact `sgattupalli at umass dot edu.`
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585591824/e7646a1c-86d9-4d78-942d-d2cbb49f48e8.png align="center")
