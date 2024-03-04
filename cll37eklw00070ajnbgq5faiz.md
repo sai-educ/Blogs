@@ -55,3 +55,5 @@ Here are the kids showing their virtual math garden as a part of the Usable Math
 We extend our deepest appreciation to all the kids who participated in our learning activities. Your enthusiasm, curiosity, and engagement were the driving force behind the success of our initiative. Your willingness to embrace new concepts and dive into the world of maths has been both inspirational and heartwarming.
 
 Give our modules a try at 👉 [https://usablemath.org/](https://usablemath.org/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585524548/60a94cff-ffda-4217-8e1a-60c684164daa.png align="center")
