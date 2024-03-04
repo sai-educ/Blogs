@@ -32,3 +32,5 @@ In addition to these benefits, Scratch also promotes creativity, problem-solving
 Don't let outdated educational systems hold your child or students back from reaching their full potential. Introduce them to MIT Scratch and watch as they develop the skills and confidence needed to navigate the ever-changing landscape of the 21st-century workforce. If you have any questions about using Scratch or need guidance on facilitating this tool with your child or students, feel free to reach out to me via direct message.
 
 Share this article with your networks and spread the word about the power of MIT Scratch for the next generation.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585581410/4f1fc8b9-7ab4-44ad-be8c-a2dea78f90a9.png align="center")
