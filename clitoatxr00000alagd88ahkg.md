@@ -28,3 +28,5 @@ Stay tuned for more updates by following us on Twitter at
 [https://twitter.com/usablemath](https://twitter.com/usablemath).
 
 #MassCUE #UsableMath #ElementaryMath #MathEd
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585562425/6f10ef80-9e11-46ad-9985-ac85d1b57459.png align="center")
