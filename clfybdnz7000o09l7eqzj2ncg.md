@@ -35,3 +35,5 @@ For a safe and enjoyable experience, we recommend using a computer equipped with
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680446152417/b50a654d-0ad8-4293-a45d-81ecf452cb2c.png align="center")
 
 To help your child or students reap the benefits of logic boards, consider incorporating one to two logic puzzles from the suggested website into their daily routine. This simple addition to their learning can make a significant difference in their cognitive and intellectual development.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585601185/8a6ee295-c6cb-4d13-b386-1c28fff84037.png align="center")
