@@ -63,3 +63,5 @@ Until next time.
 SG, RM & SE
 
 #mathteacher #elementarymath #UMassAmherst #UsableMath #creativewriting #MathDesign
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585514308/7eb90320-c37c-4f1d-b7b7-d5532ba3f840.png align="center")
