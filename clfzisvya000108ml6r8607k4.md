@@ -46,3 +46,6 @@ Additional resources for anyone interested:
 * [What is growth mindset?](https://www.understood.org/en/articles/growth-mindset)
     
 * [What having a “growth mindset” actually means, by Carol Dweck.](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585572461/01b125bd-6e65-471b-b6d7-30c311be899d.png align="center")
