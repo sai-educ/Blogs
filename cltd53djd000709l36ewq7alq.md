@@ -48,3 +48,5 @@ The Usable Math version 2 of the introduction slide is currently in its testing 
 
 **Public Instance:**  
 [https://usablemath.org](https://usablemath.org/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585487808/20bf4571-4db8-4fb7-b0cf-c513856838c7.png align="center")
