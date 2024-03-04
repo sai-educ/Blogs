@@ -30,9 +30,9 @@ Version 2 ushers in a new era of interactive learning with the introduction of a
 
 **Key advancements include:**
 
-* New Intro Slide: A welcoming start to the learning journey with language tailored to young minds.
+* **New Intro Slide:** A welcoming start to the learning journey with language tailored to young minds.
     
-* Audio Embeds: Each module now features audio introductions in English, with a friendly coach guiding the learners through their math journey. Users can now click on speaker icon on top of each math coach to listen to character introductions.
+* **Audio Embeds:** Each module now features audio introductions in English, with a friendly coach guiding the learners through their math journey. Users can now click on speaker icon on top of each math coach to listen to character introductions.
     
 
 These enhancements are not just cosmetic; they represent significant strides in pedagogical effectiveness and user experience. With the new version, we're not only teaching math; we're fostering a love for learning and discovery in our students.
@@ -44,7 +44,7 @@ These enhancements are not just cosmetic; they represent significant strides in 
 * **MathEd:** Additional improvements to language and structure, ensuring that even the most complex concepts are broken down into understandable chunks.
     
 
+The Usable Math version 2 of the introduction slide is currently in its testing phase, and we are excited to see how these advancements and improvements will enrich the UsableMath experience. Our goal is to roll out these features to all modules, ensuring that every child has access to the most engaging and effective math learning tools available. Stay tuned for more updates as we continue to innovate and enhance the world of math education!
+
 **Public Instance:**  
 [https://usablemath.org](https://usablemath.org/)
-
-The Usable Math version 2 of the introduction slide is currently in its testing phase, and we are excited to see how these advancements and improvements will enrich the UsableMath experience. Our goal is to roll out these features to all modules, ensuring that every child has access to the most engaging and effective math learning tools available. Stay tuned for more updates as we continue to innovate and enhance the world of math education!
