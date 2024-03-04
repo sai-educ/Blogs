@@ -48,3 +48,5 @@ Until next time.
 SE, RM & SG.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697752411415/06a639ce-04d3-40fb-8372-bc912298f708.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709585501249/92f68080-5d95-4d20-a2f7-97fbb1e252ad.png align="center")
