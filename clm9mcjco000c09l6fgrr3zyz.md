@@ -9,7 +9,7 @@ tags: writing, english, chatgpt, usage-policy
 
 ---
 
-Last updated: 2/21/2024.
+Last updated: 3/7/2024.
 
 Professor Dumin on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/) says:
 
