@@ -1,6 +1,6 @@
 ---
 title: "Higher Cognitive Function through Prompt Literacy in College Writing Education"
-seoTitle: "AI Usage in College Writing Course"
+seoTitle: "AI in College Writing"
 datePublished: Thu Sep 07 2023 20:26:29 GMT+0000 (Coordinated Universal Time)
 cuid: clm9mcjco000c09l6fgrr3zyz
 slug: preparing-students-for-an-ai-powered-future-an-approach-for-teaching-college-writing-course
