@@ -11,6 +11,12 @@ tags: writing, english, chatgpt, usage-policy
 
 Last updated: 2/21/2024.
 
+Professor Dumin on Linkedin says:
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709837331504/469354d6-c664-4b8b-92fb-1688c7682eb9.png align="center")](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/)
+
+---
+
 While teaching college writing this semester, I want to prepare my students for the emerging role of AI in education and their future workplace. With powerful generative AI tools such as [Claude](https://claude.ai/) or [ChatGPT](https://chat.openai.com/) growing rapidly, it is clear such technologies will be transformative. However, using them ethically and effectively requires thoughtfulness. If you haven't already, give it a try by creating a free account and asking it to create an 300-word essay about the cosmos. Anyone can do this, with no effort at all, and get done with their writing homework. And hence one question arises - How can I promote the ethical yet transformational potential of AI in writing, and at the same time prepare learners for prompt literacy?
 
 That's why I've created an AI usage policy tailored to the learning goals and writing skills I want my students to develop. At the time of writing this article, many institutions currently prohibit generative AI, I believe that with the right constraints, these tools can enhance learning. However, my policy aims to give students experience critiquing, guiding, and working alongside AI, while still developing core critical thinking and writing skills themselves, especially prompt literacy skills.
