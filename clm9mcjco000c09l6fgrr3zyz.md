@@ -11,9 +11,9 @@ tags: writing, english, chatgpt, usage-policy
 
 Last updated: 2/21/2024.
 
-Professor Dumin on Linkedin says:
+Professor Dumin on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/) says:
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709837331504/469354d6-c664-4b8b-92fb-1688c7682eb9.png align="center")](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709837587911/7df4b12c-4125-47bd-9eca-fa0a338a3607.png align="center")
 
 ---
 
