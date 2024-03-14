@@ -12,7 +12,7 @@ Its like spice in Frank Herbert's Dune series. Humanity is only now gradually re
 
 Poems help children appreciate simple ideas through figurative language and gain a deeper understanding of stories outside of their own life experiences.
 
-Robert Maloy, teaching faculty in the Teacher Education and Curriculum Studies wanted to use genAI tools such as pi.ai, as a testbed to assess how teachers can use poetry as a vehicle to introduce AI literacy curriculum and core concepts in K12.
+Bob Maloy, teaching faculty in the Teacher Education and Curriculum Studies wanted to use genAI tools such as pi.ai, as a testbed to assess how teachers can use poetry as a vehicle to introduce AI literacy curriculum and core concepts in K12.
 
 In the Usable Math lab meetings, we have been experimenting with the effectiveness of using big-tech genAI bots for creating learning environments that are inclusive, culturally-holistic and accessible. One of the test candidate was pi.ai. Mustafa Suleyman, who pioneered this general purpose expert bot calls it "Personal Intelligence". Here's Suleyman in the Stanford's Human-centered Artificial Intelligence podcast, explaining the ways the field of AI has become a foundational enabler of modern society (video below the table).
 
