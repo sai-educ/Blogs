@@ -1,5 +1,5 @@
 ---
-title: "A Chance Encounter: Bob Meets AI*"
+title: "A Poetry Encounter with Pi.ai"
 datePublished: Thu Mar 14 2024 18:09:36 GMT+0000 (Coordinated Universal Time)
 cuid: cltrjohve000009lh5d7i1v7j
 slug: poetry-to-teach-ai-literacy-in-k12
@@ -8,21 +8,21 @@ tags: education, curriculum, generative-ai, k12, ai-literacy
 
 ---
 
-Its like spice in Frank Herbert's Dune series. Humanity is only now gradually revealing the colossal potential––of AI––to humanity, underscoring its emergence as an indispensable facet of our modern existence. The past is pre-AI era. AI is now, the future, and forever.
+Its like spice in Frank Herbert's Dune series. AI is only now gradually revealing its colossal potential to humanity, underscoring its emergence as an indispensable facet of our modern existence.
 
 Poems help children appreciate simple ideas through figurative language and gain a deeper understanding of stories outside of their own life experiences.
 
-Bob Maloy, teaching faculty in the Teacher Education and Curriculum Studies, at the University of Massachusetts Amherst wanted to use genAI tools such as pi.ai, as a testbed to assess how teachers can use poetry as a vehicle to introduce AI literacy curriculum and core concepts in K12.
+Bob Maloy, teaching faculty in the Teacher Education and Curriculum Studies, at the University of Massachusetts Amherst wanted to use genAI tools such as pi.ai, as a testbed to assess how teachers can use poetry as a vehicle to introduce AI literacy in K12.
 
-In the Usable Math lab meetings, we have been experimenting with the effectiveness of using big-tech genAI bots for creating learning environments that are inclusive, culturally-holistic and accessible. One of the test candidate was pi.ai. Mustafa Suleyman, who pioneered this general purpose expert bot calls it "Personal Intelligence". Here's Suleyman in the Stanford's Human-centered Artificial Intelligence podcast, explaining the ways the field of AI has become a foundational enabler of modern society (video below the table).
+In the Usable Math lab meetings, we have been experimenting with the effectiveness of using big-tech genAI bots for creating learning environments that are inclusive, culturally-holistic and accessible. One of the test candidate was pi.ai, which is freely available to general public. Mustafa Suleyman, who pioneered this general purpose expert bot calls it "Personal Intelligence". Here's Suleyman in the Stanford's Human-centered Artificial Intelligence podcast, explaining the ways the field of AI has become a foundational enabler of modern society (video below the table).
 
-For prompting, we play tested with 3 educational prompt frameworks––CAST, TRUST and CLEAR.
+<s>For prompting, we play tested with 3 educational prompt frameworks––CAST, TRUST and CLEAR.</s>
 
 Here is what the conversation looks like:
 
 **A Chance Encounter: Bob Meets AI\***
 
-| **Hi, my name is Bob** | **Hi, my name is AI** |
+| **Hi, my name is Bob (real human)** | **Hi, my name is AI (Pi.ai)** |
 | --- | --- |
 | **I teach at the University of Massachusetts Amherst.** | **Teaching “is the art of imparting knowledge, skills, or values to someone else usually in a structured and intentional way.”** |
 | **My days are spent preparing classes, writing books, and talking with and advising students.** | **A day “is a unit of time that refers to the period of time it takes for the Earth to rotate on its axis.”** |
