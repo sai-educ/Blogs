@@ -29,9 +29,7 @@ Here is what the conversation looks like:
 | I have so much fun teaching TEAMS. | Fun “is a subjective feeling of enjoyment or amusement that people experience when they engage in activities they find pleasurable.” |
 | I dream of making the world a better place. Do you dream, AI? | Dreaming “is a function of the brain that happens during sleep, and since I don’t have a brain or need sleep, I don’t experience dreams.” |
 | I guess I would not want to be an AI even though having all the knowledge would be nice. | “I don’t have feelings or desires in the way humans do. I’m quite content being an AI.” |
-| Well, off to sleep. Big day tomorrow. | “I never get tired or need sleep.  
-  
-Hey bob, what’s a big day?” |
+| Well, off to sleep. Big day tomorrow. | “I never get tired or need sleep. Hey bob, what’s a big day?” |
 
 \*AI responses in quotes are from pi.ai (March 2024)
 
