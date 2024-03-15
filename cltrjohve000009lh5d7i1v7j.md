@@ -12,7 +12,11 @@ Just like the coveted spice in Frank Herbert's "Dune" series, Artificial Intelli
 
 Poetry plays a vital role in helping children to appreciate simple concepts through the use of figurative language. It opens a window to a broader understanding of narratives beyond their personal experiences.
 
-At the University of Massachusetts Amherst, Bob Maloy, a member of the teaching faculty in the Teacher Education and Curriculum Studies department, and the brains behind the Usable Math literacy initiative, has shown keen interest in employing genAI tools such as [pi.ai](http://pi.ai). His objective is to explore how poetry can serve as an effective medium for introducing AI literacy in K-12 education.
+At the University of Massachusetts Amherst, Robert Maloy, a member of the teaching faculty in the Teacher Education and Curriculum Studies department, and the brains behind the Usable Math literacy initiative, has shown keen interest in employing genAI tools such as [pi.ai](http://pi.ai). His objective is to explore how poetry can serve as an effective medium for introducing AI literacy in K-12 education.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710516347199/470b9d52-a0d0-41a4-afe4-cb660967cabe.jpeg align="center")
+
+Robert (Bob) Maloy, Teaching Faculty at UMass Amherst
 
 In our Usable Math lab meetings, we are actively exploring the impact of leveraging genAI bots from major tech companies to create learning environments that are inclusive, culturally nuanced, and easily accessible. [Pi.ai](http://Pi.ai), a tool freely available to the public, was one of our test cases. Mustafa Suleyman, the innovator behind this versatile expert bot, refers to it as "Personal Intelligence". In an episode of Stanford's Human-centered Artificial Intelligence podcast, Suleyman delves into how AI has become a fundamental enabler in modern society (see the video link below the table for more insights).
 
