@@ -8,15 +8,13 @@ tags: education, curriculum, generative-ai, k12, ai-literacy
 
 ---
 
-Its like spice in Frank Herbert's Dune series. AI is only now gradually revealing its colossal potential to humanity, underscoring its emergence as an indispensable facet of our modern existence.
+Just like the coveted spice in Frank Herbert's "Dune" series, Artificial Intelligence (AI) is slowly but surely revealing its enormous potential to humankind, highlighting its emergence as an essential aspect of our contemporary life.
 
-Poems help children appreciate simple ideas through figurative language and gain a deeper understanding of stories outside of their own life experiences.
+Poetry plays a vital role in helping children to appreciate simple concepts through the use of figurative language. It opens a window to a broader understanding of narratives beyond their personal experiences.
 
-Bob Maloy, teaching faculty in the Teacher Education and Curriculum Studies, at the University of Massachusetts Amherst wanted to use genAI tools such as pi.ai, as a testbed to assess how teachers can use poetry as a vehicle to introduce AI literacy in K12.
+At the University of Massachusetts Amherst, Bob Maloy, a member of the teaching faculty in the Teacher Education and Curriculum Studies department, and the brains behind the Usable Math literacy initiative, has shown keen interest in employing genAI tools such as [pi.ai](http://pi.ai). His objective is to explore how poetry can serve as an effective medium for introducing AI literacy in K-12 education.
 
-In the Usable Math lab meetings, we have been experimenting with the effectiveness of using big-tech genAI bots for creating learning environments that are inclusive, culturally-holistic and accessible. One of the test candidate was pi.ai, which is freely available to general public. Mustafa Suleyman, who pioneered this general purpose expert bot calls it "Personal Intelligence". Here's Suleyman in the Stanford's Human-centered Artificial Intelligence podcast, explaining the ways the field of AI has become a foundational enabler of modern society (video below the table).
-
-<s>For prompting, we play tested with 3 educational prompt frameworks––CAST, TRUST and CLEAR.</s>
+In our Usable Math lab meetings, we are actively exploring the impact of leveraging genAI bots from major tech companies to create learning environments that are inclusive, culturally nuanced, and easily accessible. [Pi.ai](http://Pi.ai), a tool freely available to the public, was one of our test cases. Mustafa Suleyman, the innovator behind this versatile expert bot, refers to it as "Personal Intelligence". In an episode of Stanford's Human-centered Artificial Intelligence podcast, Suleyman delves into how AI has become a fundamental enabler in modern society (see the video link below the table for more insights).
 
 Here is what the conversation looks like:
 
