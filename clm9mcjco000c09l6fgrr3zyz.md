@@ -9,9 +9,13 @@ tags: writing, english, chatgpt, usage-policy
 
 ---
 
-Last updated: 3/7/2024.
+Last updated: 3/29/2024.
 
-Professor Dumin on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/) says:
+[Ethan Mollick on Linkedin](https://www.linkedin.com/posts/emollick_do-not-use-ai-detectors-in-schools-accuracy-activity-7179545516404297728-kfJN?) says:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711748616916/5de15d3a-5f60-4bb9-8a82-c756480d6056.png align="center")
+
+And, [Professor Dumin](https://www.linkedin.com/feed/update/urn:li:activity:7171183213418151940/) says:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709837587911/7df4b12c-4125-47bd-9eca-fa0a338a3607.png align="center")
 
