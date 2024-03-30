@@ -26,7 +26,9 @@ With p5.js, we're going to bring this cosmic ballet to any screen, allowing us t
 
 When you **click and hold** in this sim, you are effectively creating a gravitational lensing scenario (really barebones for now) where light is being bent around a massive celestial body. This interactivity not only makes the concept of gravitational lensing more tangible but also visually demonstrates one of the intriguing predictions of Einstein's theory of general relativity.
 
-### Gravitational Lensing Simulation (click and hold)
+### Gravitational Lensing Simulation
+
+(Click and hold; works best on laptop/PC)
 
 <iframe src="https://editor.p5js.org/saigattupalli/full/wbyfcNS55" style="width:100%;height:500px"></iframe>
 
