@@ -3,6 +3,7 @@ title: "UsableMath is Heading to MassCUE 2024 Spring Conference!"
 datePublished: Mon Apr 01 2024 20:34:36 GMT+0000 (Coordinated Universal Time)
 cuid: cluhesaz2000508jucemqal61
 slug: usablemath-is-heading-to-masscue-2024-spring-conference
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712003717531/cc5a6aa5-309d-4990-a43e-d7f0f8768be8.png
 tags: conference, usablemath, masscue, math-education
 
 ---
