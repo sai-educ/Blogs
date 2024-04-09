@@ -44,7 +44,7 @@ function setup() {
 
 function draw() {
   background(0);
-  // ... [rest of the draw function]
+  // draw function
 }
 
 function mousePressed() {
@@ -57,7 +57,7 @@ function mouseReleased() {
 }
 
 function resetParticles() {
-  // ... [initialization of lightParticles]
+  //initialization of lightParticles
 }
 ```
 
@@ -67,7 +67,7 @@ This part of the code sets up the canvas and initializes the simulation. The *se
 
 ```javascript
 class LightParticle {
-  // ... [constructor and attract method]
+  // constructor and attract method
   
   update() {
     this.velocity.add(this.acceleration);
@@ -76,7 +76,7 @@ class LightParticle {
   }
 
   display() {
-    // ... [visual representation of particles]
+    //visual representation of particles
   }
 }
 ```
@@ -89,7 +89,7 @@ The LightParticle class represents the individual light particles affected by gr
   attract(point) {
     let force = p5.Vector.sub(point, this.position);
     let distanceSq = constrain(force.magSq(), 100, 500); 
-    let G = 2; // Gravitational constant
+    let G = 2; // Gravitational constant, you can change as needed
     let strength = G / distanceSq;
     force.setMag(strength);
     this.acceleration.add(force);
