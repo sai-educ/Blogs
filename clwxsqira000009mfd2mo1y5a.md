@@ -1,8 +1,8 @@
 ---
-title: "Exploring AI-Enhanced Math Learning at MassCUE Spring Conference 2024"
+title: "Exploring AI-Enhanced Math Learning"
 datePublished: Sun Jun 02 2024 17:08:51 GMT+0000 (Coordinated Universal Time)
 cuid: clwxsqira000009mfd2mo1y5a
-slug: exploring-ai-enhanced-math-learning-at-masscue-spring-conference-2024
+slug: exploring-ai-enhanced-math-learning
 tags: masscue, math-education, stemeducation, usable-math
 
 ---
