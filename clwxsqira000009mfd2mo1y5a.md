@@ -20,6 +20,10 @@ We extend our heartfelt thanks to all the attendees who participated and engaged
 
 Stay tuned for a follow-up article on our second session, presented by our undergraduate rising senior, Aubrey Coyne. I will share the PNG of our poster on the blog, along with a picture of the team.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717348339434/992c321b-81aa-4e65-a1cc-b1d1b17bc20a.jpeg align="center")
+
+L to R: Sharon Edwards, Robert Maloy, Torrey Trus[t, Ph.D.](https://www.linkedin.com/in/torreytrust/), Sai Gattupalli, and Aubrey Coyne.
+
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 
 SG
