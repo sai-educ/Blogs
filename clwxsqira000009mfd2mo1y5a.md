@@ -3,6 +3,7 @@ title: "Exploring AI-Enhanced Math Learning"
 datePublished: Sun Jun 02 2024 17:08:51 GMT+0000 (Coordinated Universal Time)
 cuid: clwxsqira000009mfd2mo1y5a
 slug: exploring-ai-enhanced-math-learning
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1717348284828/220938d3-3727-44c3-8f08-20e74cde26e6.jpeg
 tags: masscue, math-education, stemeducation, usable-math
 
 ---
