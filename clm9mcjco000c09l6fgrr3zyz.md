@@ -1,5 +1,5 @@
 ---
-title: "Higher Cognitive Function through Prompt Literacy in College Writing Education"
+title: "Classroom AI Usable Policy"
 seoTitle: "AI in College Writing"
 datePublished: Thu Sep 07 2023 20:26:29 GMT+0000 (Coordinated Universal Time)
 cuid: clm9mcjco000c09l6fgrr3zyz
@@ -9,7 +9,7 @@ tags: writing, english, chatgpt, usage-policy
 
 ---
 
-Last updated: 3/29/2024.
+Prompt Literacy in College Writing Education
 
 [Ethan Mollick on Linkedin](https://www.linkedin.com/posts/emollick_do-not-use-ai-detectors-in-schools-accuracy-activity-7179545516404297728-kfJN?) says:
 
