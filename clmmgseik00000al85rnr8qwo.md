@@ -10,7 +10,7 @@ tags: artificial-intelligence, culture, festivals
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431065535/b5c749ef-6996-4c33-8fdf-d8fcfecef6c9.png align="center")
 
-Culture Extra is a digital magazine that explores and celebrates culture in all its forms.
+**Culture Extra is a digital magazine that explores and celebrates culture in all its forms.**
 
 The [Philippines](https://en.wikipedia.org/wiki/Philippines) is an archipelago of over 7,000 islands located in Southeast Asia, situated between the Philippine Sea and the South China Sea. With a population of over 100 million people, it is the 13th most populous country in the world. The Philippines is predominantly Christian, with over 90% of the population identifying as Roman Catholic. The two official languages are Filipino and English.
 
