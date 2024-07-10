@@ -11,7 +11,7 @@ tags: culture, bollywood, iconic, nostalgic, colorize
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431174218/62160fa9-c13e-4322-a9ea-25e58bf8e30f.png align="center")
 
-**CultureExtra is a human-crafted, AI-enhanced digital culture magazine.**
+**Culture Extra is a digital magazine that explores and celebrates culture in all its forms.**
 
 This vibrant colorized photo shows Bollywood superstar Amitabh Bachchan in his role as Kallu in the influential 1981 Indian crime drama Kaalia. The original black-and-white film featured Bachchan as an impoverished but good-hearted slum dweller fighting the injustice of a cruel mafia boss.
 
