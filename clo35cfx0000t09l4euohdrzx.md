@@ -11,7 +11,7 @@ tags: culture, collectivism, individualism
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698080499695/6a4defec-fd4b-4091-8ebb-13581c1a3e3e.png align="center")
 
-**CultureExtra is a human-crafted, AI-enhanced digital culture magazine.**
+**Culture Extra is a digital magazine that explores and celebrates culture in all its forms.**
 
 Culture greatly influences how people think, communicate, and behave. One key dimension where cultures differ is between collectivism and individualism. This refers to how closely people identify with groups versus having independent self-identity. Let's explore some key differences between collectivist and individualistic societies.
 
