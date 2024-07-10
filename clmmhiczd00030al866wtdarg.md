@@ -10,7 +10,7 @@ tags: artificial-intelligence, culture, festivals
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695431099246/9cdc91b3-83cd-4598-9b9b-973d7a15daa0.png align="center")
 
-**CultureExtra is a human-crafted, AI-enhanced digital culture magazine.**
+**Culture Extra is a digital magazine that explores and celebrates culture in all its forms.**
 
 South Korea is located in East Asia, occupying the southern half of the Korean peninsula. It has a population of over 51 million people and its capital and largest city is Seoul. South Korea has a diverse landscape with coastal plains, mountains, and over 3,000 islands. The main religions are Christianity and Buddhism. The official language is Korean.
 
