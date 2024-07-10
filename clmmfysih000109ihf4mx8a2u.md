@@ -10,7 +10,7 @@ tags: artificial-intelligence, culture
 
 ![CultureExtra is an AI-enhanced, digital-first Culture magazine.](https://cdn.hashnode.com/res/hashnode/image/upload/v1695430973092/e3e20616-ba09-4860-a70c-21f32dff5716.png align="center")
 
-Culture Extra is a digital magazine that explores and celebrates culture in all its forms.
+**Culture Extra is a digital magazine that explores and celebrates culture in all its forms.**
 
 In our journey to explore the depths of culture, it's pivotal that we first understand what "culture" truly means. A concept often spoken about, yet challenging to define in a concise manner, we turn to a trusted definition from scientific literature:
 
