@@ -16,4 +16,4 @@ For questions or comments, reach out to us:
 
 Until next time,
 
-SG
+Usable Math Team.
