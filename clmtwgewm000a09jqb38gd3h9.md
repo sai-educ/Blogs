@@ -8,6 +8,8 @@ tags: ai, artificial-intelligence, ai-in-education, stem-education, future-of-ed
 
 ---
 
+Written by Sai Gattupalli
+
 Dear Colleagues,
 
 Recently, I had the opportunity to administer an NSF-funded workshop titled "Future of AI in Education", originally led by [Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/fellows/beverly-park-woolf/) and [Research Professor](https://www.cics.umass.edu/faculty/directory/woolf_beverly) Beverly Woolf, Ph.D., Ed.D., from the University of Massachusetts Amherst. She directs the [Center for Knowledge Communication](https://centerforknowledgecommunication.org/), which I had the honor of designing. The workshop was held in October, 2022, one month before genAI tools took over the world.
