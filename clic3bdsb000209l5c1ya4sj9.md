@@ -9,6 +9,8 @@ tags: education, mathematics, edtech, usablemath, brli2023
 
 ---
 
+Written by Sai Gattupalli
+
 In collaboration with [Robert Maloy, PhD](https://www.umass.edu/education/about/directory/robert-maloy) and [Sharon Edwards, PhD](https://www.umass.edu/education/about/directory/sharon-edwards) from Elementary Math Education.
 
 Our Google Slides-based learning technology focuses on peer collaboration in elementary math learning and utilizes research-backed math teaching practices by inviting young learners to design their own math word problems.
