@@ -9,6 +9,8 @@ tags: writing, education, chatbot, chatgpt
 
 ---
 
+Written by Sai Gattupalli
+
 AI-enabled chatbots are revolutionizing every industry. Especially in the education paradigm, intelligent chatbots such as ChatGPT, NotionAI, and Caktus are being used extensively. However, in K12 and HigherEd, writing skills "can transform knowledge, advance consciousness, and build reflective, problem-solving, and critical thinking skills" (Çavdar & Doe, 2012). With the rise of intelligent chatbot culture, the science of writing in education is changing rapidly - for good and for worse.
 
 ### For good:
