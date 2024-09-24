@@ -7,6 +7,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716395522649/88d5973
 
 ---
 
+Written by Sai Gattupalli
+
 Terra Confluence 2024 has successfully concluded, marking an impactful and engaging hybrid climate literacy and competition series. This event, co-hosted by the UMass Amherst NSC Institutional Chapter, the Global Climate Association, and various international partners, was designed to educate and engage participants from around the world on critical environmental issues.
 
 More on: [https://tc2024.globalclimateassociation.org/](https://tc2024.globalclimateassociation.org/)
