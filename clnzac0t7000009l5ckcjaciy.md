@@ -8,6 +8,8 @@ tags: parse, data-analysis, formatting, data-integrity
 
 ---
 
+Written by Sai Gattupalli
+
 Data integrity and cleanliness cannot be overstated. Every dataset, especially educational datasets with live student performance reports, contains noise, discrepancies, or formatting issues. Addressing these problems manually can be a time-consuming and error-prone process. Here, I discuss simple techniques and methods to streamline the process of cleaning, formatting, and understanding data without the need for intensive manual intervention.
 
 The main steps include:
