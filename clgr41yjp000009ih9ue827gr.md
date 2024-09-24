@@ -12,6 +12,8 @@ tags: education, steam-education, stem-lab, reggio-emilia-approach, reggio-child
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682111549508/ee9fe450-09f0-4ee9-a558-1dd86c708a25.png align="center")
 
+Written by Sai Gattupalli
+
 A student at the [GCC](https://www.gcc.mass.edu/) crafted this inspiring piece, using cotton for hair, incorporating a motivational message, and expressing their freedom. They subtly conveyed gratitude for existence and included butterflies as transformative agents. Elements of love, education, sunshine, and [tamara puvvu](https://www.google.com/search?q=tamara+puvvu) are also present. This artwork is just one of many artifacts learners create each week during their learning activities at a unique STEAM lab.
 
 As I immerse myself in the [Creative Thinking & Learning Studio](https://sites.google.com/umass.edu/steamstudio/home), I find myself surrounded by an environment that embodies the spirit of STEAM education. My eyes absorb the vibrant atmosphere, which seems to invite curiosity and ignite creativity. This studio represents more than just a physical space; it celebrates the fusion of Science, Technology, Engineering, Art, and Mathematics, inspiring learners of all ages.
