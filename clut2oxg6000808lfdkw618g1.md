@@ -8,6 +8,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qRSntl3zxEk/up
 
 ---
 
+Written by Sai Gattupalli
+
 Hello everyone,
 
 Following up on my previous blog post on [annotated bibliographies](https://cultureos.hashnode.dev/how-to-annotated-bibliography), I want to dive into another significant aspect of modern writing: multimodal texts. This concept might sound complex, but it's something you're already familiar with, even if you don't realize it.
