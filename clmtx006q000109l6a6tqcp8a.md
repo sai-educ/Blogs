@@ -8,6 +8,8 @@ tags: writing, ai, artificial-intelligence, education
 
 ---
 
+Written by Sai Gattupalli
+
 **Disclaimer:**
 
 I recently got to test drive an exciting new AI writing tool that is simply truly next-level, and unlike anything I've experienced before, such as ChatGPT, Bard, Claude, or other GenAI systems. Although I cannot name the tool due to obvious (NDA, sort of) reasons, the interface and capabilities of this tool are truly groundbreaking. It was developed by a leading AI research institute, that has previously developed many computer vision, and visualization tools, among many others, towards humanity's intellectual progress. This tool is not available to the public yet.
