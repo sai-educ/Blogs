@@ -9,7 +9,9 @@ tags: techno-solutionism, technological-solutionism
 
 ---
 
-Updated: April 27, 2023
+Written by Sai Gattupalli
+
+Last Updated: April 27, 2023
 
 A few weeks ago, I first became aware of Techno-solutionism from my amazing postdoc fellow, [Dr. Castro](https://franciscastro.github.io/). The ideology immediately caught my attention and I looked it up, studied the topic, and here I share the concept for anyone interested. Think of this article as a quick one-pager intro to the topic.
 
