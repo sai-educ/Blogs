@@ -9,6 +9,8 @@ tags: education, socio-cultural-theory, vygotsky, learning-theory
 
 ---
 
+Written by Sai Gattupalli
+
 I first became aware of learning theories after enrolling in the **Theories of Learning (EDUC 692K)** course two years ago, as a part of required coursework. At the time, the course was taught by an amazing Professor Florence Sullivan, [whom I miss dearly](https://www.umass.edu/news/article/memoriam-florence-sullivan). After attending Florence's class, I became aware of different learning theories and gained valuable insights into educational psychology, various learning theories and patterns, cognitive development, and the factors that motivate learners.
 
 Learning theories are crucial as they provide a foundation for understanding how individuals acquire, process, and retain knowledge. In my doctoral dissertation, I focus on developing a coding scheme for "measuring" learner culture through educational game design techniques. To form a theoretical framework that supports my work, I focus mainly on the Socio-cultural theory (SCT), and hence this post. This article could be thought of as a cheat sheet to SCT. However, I recommend further reading to get a broader understanding of the concept and its wider educational implications (recommended readings at the bottom). This is a gist from my doctoral comprehensive, which I further simplified for readers from non-educational research backgrounds, and with an intent to make this piece of public knowledge available through the Sanskriti blog.
