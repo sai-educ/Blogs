@@ -10,6 +10,8 @@ tags: software, apps, culture, oer, software-culture
 
 ---
 
+Written by Sai Gattupalli
+
 Software has been an integral part of our lives for the past decade. While software is created by humans, the culture surrounding it is not. The culture of a software can be seen in how it is used, what it does, and how its users feel about it. Software affects day-to-day life. For example, the navigation app Waze was ranked as one of the top 10 most important apps in 2015. It helps people find their way to their destinations efficiently and quickly. Software has a huge impact on our lives, from the little things like using an alarm clock app to something more important like using Zoom for your job interview.
 
 Culture is more than just the surface level; culture also includes history and tradition.
