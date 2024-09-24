@@ -9,6 +9,8 @@ tags: artificial-intelligence, education, mathematics, llm, large-language-model
 
 ---
 
+Written by Sai Gattupalli
+
 Our latest research focusing on the intersection of large language models (LLMs) and their utility in education, has been accepted to the [International Conference on Artificial Intelligence in Education 2023 (AIED)](https://iaied.org/conferences). AIED is one of the core learning sciences conferences in the field of computer-assisted learning, and is ranked as [A by the CORE](http://portal.core.edu.au/conf-ranks/?search=aied&by=all&source=CORE2021&sort=atitle&page=1). This year's conference adopted the hybrid attendance model and is being chaired by scientists from the [Carnegie Mellon University](https://www.cmu.edu/), an institution known globally for its excellence and innovation in science, engineering, art and drama. Experts from all over the world will gather in Tokyo, Japan, in-person and online, from July 3-7, 2023, and present their latest research in the professional learning community.
 
 Guided by Isaac Newton's wise words, *"Stand on the shoulders of giants,"* our team, including [Will Lee](https://www.researchgate.net/profile/William-Lee-51), [Beverly Woolf](https://presidentialinnovationfellows.gov/fellows/beverly-park-woolf/), [Ivon Arroyo](https://advancedlearningtech.com/), [Danielle Allessio](https://scholar.google.com/citations?user=-B3ETtMAAAAJ), and myself, embarked on this collaborative research journey - by treating the immense computing power of large language models present to the education field.
