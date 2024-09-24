@@ -9,6 +9,8 @@ tags: culture, oer, open-educational-resources, open-culture, life-long-learning
 
 ---
 
+Written by Sai Gattupalli
+
 If you've been following my articles, you might have noticed that I often mention Open Educational Resources (OERs). But what exactly is an OER? If you're curious, you've come to the right place!
 
 Here, I'll be explaining everything you need to know about OERs. Whether you're already familiar with the concept or just learning about it for the first time, I guarantee you'll come away with a deeper understanding of this often unheard, yet important educational resource.
