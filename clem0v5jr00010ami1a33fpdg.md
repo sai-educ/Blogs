@@ -8,6 +8,8 @@ tags: math, teacher-for-maths-difficulties, open-educational-resources, elementa
 
 ---
 
+Written by Sai Gattupalli
+
 Our daily lives depend on math in one way or another. To excel in this topic, a great deal of concentration, patience, and practice are needed. Research shows math, however, can be difficult and intimidating for many learners \[1\]\[2\]. As a result, a lot of learners avoid math or have trouble keeping up with the curriculum \[3\]. This is one of the many reasons Usable Math was created. Usable Math is a free online math tutor for US grades 3-6, designed to support math skill development and problem-solving among young kids. As an open educational resource, Usable Math uses Google Slides as the medium of math instructional delivery while stimulating a collaborative math learning climate in the classroom.
 
 There are hundreds of complex and intelligent online math tutors on the web, designed for learners from any grade. Each one of them intends to make math learning engaging, interactive, and fun. Although I do not speak from a competitiveness angle, there are hardly any online math tutors that come close to the functionality of Usable Math - its ability to create an innate collaborative learning environment that is solely learner-centered.
@@ -21,11 +23,11 @@ This article is a part of Usable Math series. Visit Usable Math to learn more: [
 ### References
 
 \[1\] M. H. Ashcraft, “Math Anxiety: Personal, Educational, and Cognitive Consequences,” *Current Directions in Psychological Science*, vol. 11, no. 5, pp. 181–185, Oct. 2002, doi: 10.1111/1467-8721.00196.  
-    
+  
     \[2\] Y. Mutlu, “Math Anxiety in Students With and Without Math Learning Difficulties,” *lnternational Electronic Journal of Elementary Education*, vol. 11, no. 5, pp. 471–475, Jun. 2019, doi: 10.26822/iejee.2019553343.  
-    
+  
     \[3\] M. Dennis, D. B. Berch, and M. M. M. Mazzocco, “Mathematical learning disabilities in special populations: Phenotypic variation and cross-disorder comparisons,” *Developmental Disabilities Research Reviews*, vol. 15, no. 1, pp. 80–89, 2009, doi: 10.1002/ddrr.54.  
-    
+  
     \[4\] S. Jiang and G. K. W. Wong, “Are Children More Motivated with Plugged or Unplugged Approach to Computational Thinking?,” in *Proceedings of the 49th ACM Technical Symposium on Computer Science Education*, Feb. 2018. Accessed: Feb. 26, 2023. \[Online\]. Available: [http://dx.doi.org/10.1145/3159450.3162270  
 ](http://dx.doi.org/10.1145/3159450.3162270%EF%BF%BC)    
     \[5\] J. Anghileri, “Scaffolding practices that enhance mathematics learning,” *Journal of Mathematics Teacher Education*, vol. 9, no. 1, pp. 33–52, Jun. 2006, doi: 10.1007/s10857-006-9005-9.
