@@ -12,7 +12,9 @@ tags: research, education, whatsapp, icalt2023
 
 ---
 
-Updated: Oct 11, 2023.
+Written by Sai Gattupalli
+
+Updated: Oct 11, 2023
 
 [Link to published work](https://ieeexplore.ieee.org/document/10260801).
 
