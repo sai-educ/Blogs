@@ -9,6 +9,8 @@ tags: education, game-design, computational-thinking
 
 ---
 
+Written by Sai Gattupalli
+
 In this article, I describe JSON variables in a digital game that middle-school children in India have developed using the WearableLearning educational technology. [Early Research Scholar Program](https://sites.google.com/umass.edu/ersp-cics/home) (ERSP) researchers and other educational researchers interested in studying student game design for [computational thinking](https://cultureos.hashnode.dev/computational-thinking) may find this valuable.
 
 In August 2022, young learners from Jammikunta, India, from grades 6 & 7, named this game "hackers". This digital "artifact" is extracted as a JSON to perform [DFS](https://github.com/tinkerpop/gremlin/wiki/Depth-First-vs.-Breadth-First) traverse through states, transitions and connections (finite-state machines). This enables educational researchers to identify unique learner cultural attributes, which can then be reused to create an engaging learning experience for learners from diverse cultural backgrounds.
