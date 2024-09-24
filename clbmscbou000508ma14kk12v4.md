@@ -9,6 +9,8 @@ tags: culture, types-of-culture, material-culture, non-material-culture, oer
 
 ---
 
+Written by Sai Gattupalli
+
 Edited: Jan 25, 2023  
 Fixed typos
 
