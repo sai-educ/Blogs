@@ -9,6 +9,8 @@ tags: writing, annotated-bibliography, college-writing
 
 ---
 
+Written by Sai Gattupalli
+
 This article is intended for undergraduate students enrolled in college writing courses such as the:
 
 * [EnglWrit 112 from UMass Amherst](https://www.umass.edu/writingprogram/college-writing-course)
