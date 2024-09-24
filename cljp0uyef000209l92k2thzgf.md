@@ -11,6 +11,8 @@ tags: creativity, education, reggio-emilia-approach, stem-education, holistic-le
 
 ---
 
+Written by Sai Gattupalli
+
 Read our [full case study here](https://scholarworks.umass.edu/education_working_papers/8/).
 
 In the diverse landscape of education, one philosophy shines brightly, illuminating the path to creativity and curiosity, the Reggio Emilia approach. Deeply engrained in the [Creative Thinking & Learning Studio at Greenfield Community College](https://www.youtube.com/watch?v=2xg7Yf5B6CI), it offers an invigorating blend of hands-on, interactive learning. It weaves the vibrant colors of arts into the robust fabric of STEAM education, providing a multidimensional learning palette that effectively empowers learners to navigate the labyrinth of the 21st century. This summer, I interned at the Studio as an education consultant, and here is a synthesis of things I learned - explained to the general public. This is a part of the weekly Feynman writing technique.
