@@ -8,6 +8,8 @@ tags: p5js, physics, creative-coding, gravity, educational-resource, gravitation
 
 ---
 
+Written by Sai Gattupalli
+
 Hello there! If you ever peek into my world, you'll likely catch the sounds of the [Star Talk podcast](https://www.youtube.com/c/StarTalk), my constant companion, filling the air with tales of celestial wonders.
 
 Have you ever looked up at the night sky and felt a sense of awe at the vastness of space? That's exactly what sparks my imagination every single day. I find myself captivated by the "dance of the stars", the distant twinkle of galaxies, and the magnificent ballet of planets. But, I wanted to do more than just gaze and wonder. I yearned to dive deeper, to interact with these cosmic phenomena in a way that's tangible, almost touchable.
