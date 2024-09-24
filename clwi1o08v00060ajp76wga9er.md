@@ -4,7 +4,6 @@ datePublished: Wed May 22 2024 16:34:31 GMT+0000 (Coordinated Universal Time)
 cuid: clwi1o08v00060ajp76wga9er
 slug: celebrating-the-success-of-terra-confluence-2024
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716395522649/88d5973f-d216-4569-8450-1619200b376e.jpeg
-tags: global-climate-association, climate-literacy, terra-confluence-2024
 
 ---
 
