@@ -9,6 +9,8 @@ tags: education, computational-thinking, computing-education, literacy, learning
 
 ---
 
+Written by Sai Gattupalli
+
 In recent years, the phrase "computational thinking" (CT) has become widely used in the fields of education and computer science \[1\]. It is a term that describes the capacity to resolve real-world issues utilizing the concepts, ideas and strategies core to computer science. As my research is directly related to CT, it occurred to me that I haven’t written about it yet. And so, as a part of my daily Feynman's, I present briefly about CT throughout history and how it came to be a fundamental idea in modern education.
 
 We travel back in time to the 1980s, when the first generation of computers were making headlines all over \[2\]. This is the time when “computational thinking” first emerged \[3\]. At the time, computing was primarily used in military encryption, in scientific and other engineering calculations. Also the equipment and machines were large, expensive, and challenging to operate. But as technology advanced, computer chips shrank from a room-size to microbe-level 5nm. And with it, machines became more accessible, and improved in usability. As a result, computing devices found many applications that grew beyond yesteryear’s technological limitations, taking us into the hidden realms of science and engineering.
