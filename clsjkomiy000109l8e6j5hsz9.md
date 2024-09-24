@@ -9,6 +9,8 @@ tags: culture, education, computational-thinking, computing-education
 
 ---
 
+Written by Sai Gattupalli
+
 **Slideshows in open access:** Credits to the University of Massachusetts Amherst Libraries for [hosting this scholarwork](https://scholarworks.umass.edu/education_working_papers/11/).
 
 As a PhD candidate in Learning Sciences, my research journey has been a deep dive into the integration of cultural elements into game design, specifically within computing education. My focus is on the [WearableLearning (WL)](http://wearablelearning.org/) education technology platform (Arroyo et al., 2017), a dynamic tool for teaching computational thinking (CT)(Wing, 2006) and mathematics through the innovative approach of game creation.
