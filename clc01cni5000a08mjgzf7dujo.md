@@ -9,6 +9,8 @@ tags: education, curriculum, culture-in-education, culturally-inclusive
 
 ---
 
+Written by Sai Gattupalli and Tejaswini Gadde
+
 Early this week, I reached out to my friends asking if anyone would like to join me in writing a blog article together on topics such as culture and education. Tejaswini Gadde, a good friend of mine and the mother of a 5yo boy Advaith, expressed interest in collaborating. We quickly found a topic of common interest and named the piece *“Benefits of Culturally-Inclusive Curriculum”*.
 
 Back in 2012 - 2015, Tejaswini and I worked in a team setting at the IBM Hyderabad campus. At the time, our work mainly focused on TechOps activities on IBM’s internal end-user computing infrastructure. Currently, Tejaswini is employed at Dell Technologies as a Product Management Advisor, and I attend graduate school at the University of Massachusetts Amherst.
