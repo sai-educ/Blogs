@@ -9,6 +9,8 @@ tags: fonts, web-design, colors, stock-photos, free-tools-and-resources
 
 ---
 
+Written by Sai Gattupalli
+
 Edited: Jan 25, 2023  
 Fixed typos, new tools added
 
