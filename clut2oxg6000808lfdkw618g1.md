@@ -5,7 +5,6 @@ datePublished: Wed Apr 10 2024 00:29:17 GMT+0000 (Coordinated Universal Time)
 cuid: clut2oxg6000808lfdkw618g1
 slug: how-to-multimodal-texts
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qRSntl3zxEk/upload/d488c12123ca5730725bffe2f895ae1b.jpeg
-tags: writing, college-writing, undergraduate-students, umass-amherst, multimodal-texts
 
 ---
 
