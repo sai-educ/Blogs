@@ -9,7 +9,7 @@ tags: writing, english, chatgpt, usage-policy
 
 ---
 
-Prompt Literacy in College Writing Education
+Written by Sai Gattupalli
 
 [Ethan Mollick on Linkedin](https://www.linkedin.com/posts/emollick_do-not-use-ai-detectors-in-schools-accuracy-activity-7179545516404297728-kfJN?) says:
 
