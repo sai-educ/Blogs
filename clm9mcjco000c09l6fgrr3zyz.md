@@ -9,7 +9,11 @@ tags: writing, english, chatgpt, usage-policy
 
 ---
 
-Written by Sai Gattupalli
+Written, researched and fact checked by Sai Gattupalli
+
+Fall 2024 ENGLWRIT 112 Classroom AI Usage Policy here: [https://docs.google.com/document/d/1hueiHNVIL7oM8EVB0m72oRadnrB7psSMOq\_J3UL2uPU/edit?usp=sharing](https://docs.google.com/document/d/1hueiHNVIL7oM8EVB0m72oRadnrB7psSMOq_J3UL2uPU/edit?usp=sharing)
+
+---
 
 [Ethan Mollick on Linkedin](https://www.linkedin.com/posts/emollick_do-not-use-ai-detectors-in-schools-accuracy-activity-7179545516404297728-kfJN?) says:
 
