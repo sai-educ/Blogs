@@ -8,6 +8,8 @@ tags: ai, education, society, cognition
 
 ---
 
+Written by Sai Gattupalli
+
 It has been a while since I last wrote on this blog, and I am committed to making a more consistent effort to share my thoughts this year. With that intention in mind, I present my latest reflections on AI’s role in our cognitive evolution.
 
 In a recent discussion with my wife, we found ourselves marveling at how AI has transformed our workflow. Tasks that once required weeks of meticulous effort—such as conducting literature reviews or synthesizing vast amounts of published research—can now be completed in mere hours. The efficiency is undeniable. But as we embrace this newfound productivity, I can’t help but wonder: Are we offloading too much of our cognitive effort to chatbots and AI agents? Have we begun outsourcing the very mental labor that has kept us intellectually engaged for centuries?
