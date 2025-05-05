@@ -39,5 +39,9 @@ This video is designed as an **open educational resource (OER)**—free to use, 
 * **Educational Design**: Informed by my work in STEM and learning technologies at UMass Amherst’s College of Education.
     
 
-This blog is part of the Equations & Echoes project – where science sings and the universe hums back.  
+This blog is part of the [Equations & Echoes](https://www.youtube.com/@equations.echoes) project – where science sings and the universe hums back.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746478839201/05be9f86-f6a5-402e-b69c-6f53641ba2a0.png align="center")](https://www.youtube.com/@equations.echoes)
+
+  
 #OpenEd #AIinEducation #STEMMusic #CultureThroughSound
