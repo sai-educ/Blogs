@@ -3,9 +3,12 @@ title: "Teaching Culture with Sound: An Open Experiment in AI, Music, and Educat
 datePublished: Mon May 05 2025 20:56:12 GMT+0000 (Coordinated Universal Time)
 cuid: cmabk8zey000309la4shrc0l1
 slug: teaching-culture-with-sound-an-open-experiment-in-ai-music-and-education
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746479016280/ecaa5445-54e2-45ad-ae2b-a0d2b1a5ca49.jpeg
 tags: music, learning, culture, education, teachers, stem, stem-education
 
 ---
+
+Written by Sai Gattupalli
 
 What happens when we let generative AI help us teach one of the most complex ideas in the human experience—*culture*?
 
